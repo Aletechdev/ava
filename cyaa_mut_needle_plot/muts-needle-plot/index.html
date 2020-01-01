@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link href="build/muts-needle-plot.css" rel="stylesheet" type="text/css">
+
+<style>
+
+text {
+  font: 12px sans-serif;
+}
+
+</style>
+
+<body>
+<div id="yourDiv"> </div>
+
+<script src="build/muts-needle-plot.js"></script>
+<script src="src/js/dependencies/d3.js"></script>
+<script src="src/js/dependencies/underscore.js"></script>
+<script src="src/js/d3-svg-legend.js"></script>
+<script>
+
+    colorMap = {
+        "frameshift": "red",
+        "mobile insertion element": "orange",
+        "catalytic domain": "pink",
+        "regulatory domain": "lightblue",
+        "EIIA binding": "orange",
+        "G3P associated inhibition": "yellow"
+    };
+
+    regions = [
+        {
+            "name": "catalytic domain",
+            "coord": "1-535"
+        },
+        {
+            "name": "regulatory domain",
+            "coord": "541-848"
+        },
+        {
+            "name": "EIIA binding",
+            "coord": "609-614"  // Actually only 1 AA large, though made it slightly large to be able to better see it.
+        },
+        {
+            "name": "G3P associated inhibition",
+            "coord": "800-848"
+        }
+    ];
+
+
+    legends = {
+        x: "cyaA amino acid position",
+        y: "Number of recorded mutations"
+    };
+
+    //Crate config Object
+    plotConfig = {
+        maxCoord : 848,
+        minCoord : 1,
+        height: 200,
+        width: 700,
+        targetElement: "yourDiv",
+        mutationData: "snippets/data/muts.json",
+        //regionData: "snippets/data/regions.json",  // For some reason, this doesn't work
+        regionData: regions,
+        colorMap: colorMap,
+        legends: legends
+    };
+
+    // Instantiate a plot
+    MutsNeedlePlot = require("muts-needle-plot");
+    p = new MutsNeedlePlot(plotConfig);
+
+</script>

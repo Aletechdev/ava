@@ -1,0 +1,131 @@
+{
+  "_args": [
+    [
+      "muts-needle-plot",
+      "/home/pphaneuf"
+    ]
+  ],
+  "_from": "muts-needle-plot@latest",
+  "_id": "muts-needle-plot@0.9.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/muts-needle-plot",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "email": "bcn.bg.lab@gmail.com",
+    "name": "bbglab"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "muts-needle-plot",
+    "raw": "muts-needle-plot",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/muts-needle-plot/-/muts-needle-plot-0.9.1.tgz",
+  "_shasum": "9342f3fa45b288e7bae34d456cba8d798c08d16d",
+  "_shrinkwrap": null,
+  "_spec": "muts-needle-plot",
+  "_where": "/home/pphaneuf",
+  "author": {
+    "email": "michael.p.schroeder@gmail.com",
+    "name": "Michael P Schroeder"
+  },
+  "biojs": {
+    "logo": "/",
+    "registryHeight": "520"
+  },
+  "bugs": {
+    "url": "https://github.com/bbglab/muts-needle-plot.git/issues"
+  },
+  "dependencies": {
+    "biojs-events": "0.0.4",
+    "d3-tip": "0.6.7",
+    "js-class": "0.0.2",
+    "js-extend": "0.0.2",
+    "sniper": "^0.2.16"
+  },
+  "description": "Draws a Needle-Plot for mutation data (stacked).",
+  "devDependencies": {
+    "browserify": "5.x",
+    "d3": "3.5.1",
+    "del": "^0.1.3",
+    "gulp": "^3.8.8",
+    "gulp-chmod": "^1.1.1",
+    "gulp-concat": "^2.3.4",
+    "gulp-gzip": "0.0.8",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-streamify": "^0.0.5",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "gulp-watch": "^1.0.2",
+    "mkdirp": "^0.5.0",
+    "sniper": "^0.0.4",
+    "underscore": "1.7.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^1.0.6"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "9342f3fa45b288e7bae34d456cba8d798c08d16d",
+    "tarball": "https://registry.npmjs.org/muts-needle-plot/-/muts-needle-plot-0.9.1.tgz"
+  },
+  "gitHead": "f379daee8331b4816b76acb46f4be6d09edcf104",
+  "homepage": "https://github.com/bbglab/muts-needle-plot",
+  "keywords": [
+    "biojs",
+    "genomics",
+    "lollipop-plot",
+    "mutations",
+    "needle-plot",
+    "plot",
+    "stem-plot",
+    "visualization"
+  ],
+  "license": "Apache 2",
+  "main": "src/js/MutNeedles",
+  "maintainers": [
+    {
+      "name": "bbglab",
+      "email": "bcn.bg.lab@gmail.com"
+    }
+  ],
+  "name": "muts-needle-plot",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbglab/muts-needle-plot.git"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "build-browser": "gulp build-browser",
+    "build-browser-min": "gulp build-browser-gzip",
+    "prepublish": "gulp",
+    "sniper": "sniper .",
+    "watch": "gulp watch"
+  },
+  "sniper": {
+    "css": [
+      "/build/muts-needle-plot.css"
+    ],
+    "first": "TP53_OVARY",
+    "js": [
+      "/build/muts-needle-plot.js",
+      "/src/js/d3-svg-legend.js",
+      "/src/js/dependencies/d3.js",
+      "/src/js/dependencies/underscore.js"
+    ],
+    "snippets": [
+      "snippets"
+    ]
+  },
+  "version": "0.9.1"
+}
