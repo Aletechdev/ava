@@ -1,0 +1,6 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pyrimidine metabolism,9,89371,0.26970316988966947,458,0.0458,True,0.229,False,False
+Drug metabolism - other enzymes,4,7286,0.021987639120253012,7,0.0007,True,0.0035,True,True
+Purine metabolism,4,154034,0.4648427126336882,9941,0.9941,False,1.0,False,False
+Starch and sucrose metabolism,1,63933,0.19293655392192366,9819,0.9819,False,1.0,False,False
+Glycerolipid metabolism,1,16744,0.050529924434465606,6275,0.6275,False,1.0,False,False

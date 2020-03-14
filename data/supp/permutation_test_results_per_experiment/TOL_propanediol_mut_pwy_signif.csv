@@ -1,0 +1,3 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Purine metabolism,1,154034,0.6328300569010497,8678,0.8678,False,1.0,False,False
+Pyrimidine metabolism,1,89371,0.3671699430989503,6017,0.6017,False,1.0,False,False

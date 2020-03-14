@@ -1,0 +1,13 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+"Glycine, serine and threonine metabolism",3,54804,0.06847872129070469,1698,0.1698,False,1.0,False,False
+Cysteine and methionine metabolism,3,36129,0.04514392601839044,647,0.0647,False,0.7764,False,False
+Lysine biosynthesis,3,18189,0.022727528311010648,119,0.0119,True,0.1428,False,False
+Glycolysis / Gluconeogenesis,2,87006,0.10871578031930247,6830,0.683,False,1.0,False,False
+Purine metabolism,2,154034,0.19246864015933884,9327,0.9327,False,1.0,False,False
+Pyruvate metabolism,1,95946,0.11988649355809708,9297,0.9297,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,2,50115,0.06261971968257181,3767,0.3767,False,1.0,False,False
+Glutathione metabolism,1,37830,0.04726936038295304,6456,0.6456,False,1.0,False,False
+Pyrimidine metabolism,1,89371,0.11167089629354734,9151,0.9151,False,1.0,False,False
+Pentose phosphate pathway,1,51305,0.06410664907341808,7490,0.749,False,1.0,False,False
+Pentose and glucuronate interconversions,1,32217,0.040255801836045414,5782,0.5782,False,1.0,False,False
+Methane metabolism,1,93361,0.11665648307462012,9246,0.9246,False,1.0,False,False

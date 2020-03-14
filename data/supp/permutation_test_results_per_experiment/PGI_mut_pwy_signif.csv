@@ -1,0 +1,16 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Nicotinate and nicotinamide metabolism,14,21839,0.03704715246347703,0,0.0,True,0.0,True,True
+Fatty acid biosynthesis,1,25665,0.04353748651381189,9494,0.9494,False,1.0,False,False
+Biotin metabolism,1,17503,0.02969166672321253,8580,0.858,False,1.0,False,False
+Purine metabolism,7,154034,0.26129955962082607,9992,0.9992,False,1.0,False,False
+Pyrimidine metabolism,8,89371,0.15160680721706146,8006,0.8006,False,1.0,False,False
+Citrate cycle (TCA cycle),9,0,0.0,0,0.0,True,0.0,True,True
+Glutathione metabolism,9,37830,0.06417389888242758,243,0.0243,True,0.3645,False,False
+Reductive carboxylate cycle (CO2 fixation),9,0,0.0,0,0.0,True,0.0,True,True
+Drug metabolism - other enzymes,2,7286,0.012359794534955521,1925,0.1925,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.10909562810012689,9996,0.9996,False,1.0,False,False
+Propanoate metabolism,1,56189,0.09531766334403181,9992,0.9992,False,1.0,False,False
+Fructose and mannose metabolism,1,26580,0.04508967042809741,9531,0.9531,False,1.0,False,False
+Pentose phosphate pathway,1,51305,0.0870325636310586,9972,0.9972,False,1.0,False,False
+Ubiquinone and other terpenoid-quinone biosynthesis,1,22230,0.03771043542575642,9208,0.9208,False,1.0,False,False
+Terpenoid backbone biosynthesis,1,15349,0.02603767311515678,8270,0.827,False,1.0,False,False

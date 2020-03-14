@@ -1,0 +1,18 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Cell motility,1,144533,0.025742510773319037,9252,0.9252,False,1.0,False,False
+Signal transduction mechanisms,6,339255,0.060424093407058246,5810,0.581,False,1.0,False,False
+"Replication, recombination and repair",6,309957,0.05520587970751073,4989,0.4989,False,1.0,False,False
+Energy production and conversion,6,589566,0.10500653211780432,9632,0.9632,False,1.0,False,False
+Carbohydrate transport and metabolism,26,679809,0.12107954935066208,3,0.0003,True,0.0050999999999999995,True,True
+Amino acid transport and metabolism,14,660007,0.11755265100680107,3205,0.3205,False,1.0,False,False
+Inorganic ion transport and metabolism,10,305849,0.054474211270151826,519,0.0519,False,0.8823000000000001,False,False
+Transcription,7,424603,0.075625271058399,6569,0.6569,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",5,270912,0.04825164549702426,5426,0.5426,False,1.0,False,False
+Lipid transport and metabolism,2,183775,0.032731832296892104,8469,0.8469,False,1.0,False,False
+Coenzyme transport and metabolism,2,212728,0.037888598671491025,9066,0.9066,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.09272009496728598,10000,1.0,False,1.0,False,False
+General function prediction only,2,254764,0.04537555447305357,9534,0.9534,False,1.0,False,False
+Defense mechanisms,1,135950,0.024213808193510985,9165,0.9165,False,1.0,False,False
+Nucleotide transport and metabolism,4,160339,0.028557688796905904,3338,0.3338,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.07000008014868471,9992,0.9992,False,1.0,False,False
+"Mobilome: prophages, transposons",8,28915,0.005149998263445164,0,0.0,True,0.0,True,True

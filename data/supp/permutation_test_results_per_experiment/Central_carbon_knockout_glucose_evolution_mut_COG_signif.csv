@@ -1,0 +1,9 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Nucleotide transport and metabolism,2,160339,0.05564026611995386,1985,0.1985,False,1.0,False,False
+Transcription,3,424603,0.14734421391757943,3784,0.3784,False,1.0,False,False
+Energy production and conversion,4,589566,0.20458908397380998,3684,0.3684,False,1.0,False,False
+Coenzyme transport and metabolism,1,212728,0.07382010946286022,6865,0.6865,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",1,270912,0.0940109129724455,7817,0.7817,False,1.0,False,False
+"Replication, recombination and repair",1,309957,0.10756016917744615,8207,0.8207,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,2,520583,0.18065085012083112,7860,0.786,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.13638439425507373,8922,0.8922,False,1.0,False,False

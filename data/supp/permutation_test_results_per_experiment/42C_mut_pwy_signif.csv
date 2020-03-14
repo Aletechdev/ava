@@ -1,0 +1,25 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pyrimidine metabolism,16,89371,0.06844728193730369,16,0.0016,True,0.038400000000000004,True,True
+Drug metabolism - other enzymes,8,7286,0.005580187042722972,0,0.0,True,0.0,True,True
+Purine metabolism,13,154034,0.11797125047197231,4198,0.4198,False,1.0,False,False
+Galactose metabolism,2,41777,0.0319960848317098,8331,0.8331,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,4,52989,0.04058310886725879,6006,0.6006,False,1.0,False,False
+Pantothenate and CoA biosynthesis,2,28178,0.021580910031546514,6455,0.6455,False,1.0,False,False
+Sulfur metabolism,1,17047,0.013055922113271824,7338,0.7338,False,1.0,False,False
+Pentose phosphate pathway,2,51305,0.039293370330346154,9109,0.9109,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.04197317742099777,9881,0.9881,False,1.0,False,False
+Methane metabolism,1,93361,0.07150313512155633,10000,1.0,False,1.0,False,False
+Starch and sucrose metabolism,2,63933,0.048964877601208864,9616,0.9616,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.04925437948182227,9933,0.9933,False,1.0,False,False
+Pyruvate metabolism,14,95946,0.07348292972839669,176,0.0176,True,0.4224,False,False
+Glycolysis / Gluconeogenesis,5,87006,0.0666359804884923,8117,0.8117,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,5,50115,0.03838197552100765,3324,0.3324,False,1.0,False,False
+Cysteine and methionine metabolism,1,36129,0.02767040593831159,9429,0.9429,False,1.0,False,False
+Propanoate metabolism,8,56189,0.043033918438589225,628,0.0628,False,1.0,False,False
+Butanoate metabolism,8,68327,0.052330145493841955,1575,0.1575,False,1.0,False,False
+Lipopolysaccharide biosynthesis,2,39414,0.030186315138880485,8150,0.815,False,1.0,False,False
+Phenylalanine metabolism,1,29184,0.02235138329053352,8990,0.899,False,1.0,False,False
+beta-Alanine metabolism,1,15690,0.012016625679429512,7043,0.7043,False,1.0,False,False
+Arginine and proline metabolism,1,71864,0.05503905594815312,9966,0.9966,False,1.0,False,False
+Vitamin B6 metabolism,1,10138,0.007764471073171218,5500,0.55,False,1.0,False,False
+Betalain biosynthesis,1,27293,0.02090310800947544,8792,0.8792,False,1.0,False,False

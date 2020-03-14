@@ -1,0 +1,11 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Nucleotide transport and metabolism,4,160339,0.04027077075782307,72,0.0072,True,0.072,False,False
+Transcription,5,424603,0.10664336235154236,544,0.0544,False,0.5439999999999999,False,False
+"Cell cycle control, cell division, chromosome partitioning",2,115057,0.028897735866400872,1099,0.1099,False,1.0,False,False
+Energy production and conversion,3,589566,0.14807549774294912,5868,0.5868,False,1.0,False,False
+General function prediction only,1,254764,0.06398656996330299,7342,0.7342,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.09871097065118047,8808,0.8808,False,1.0,False,False
+Lipid transport and metabolism,1,183775,0.04615696053997428,6056,0.6056,False,1.0,False,False
+Amino acid transport and metabolism,1,660007,0.16576747139222855,9738,0.9738,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.13074971562389567,9336,0.9336,False,1.0,False,False
+Carbohydrate transport and metabolism,1,679809,0.17074094511070262,9761,0.9761,False,1.0,False,False

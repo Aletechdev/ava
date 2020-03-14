@@ -1,0 +1,39 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Purine metabolism,12,154034,0.10806385304315005,5370,0.537,False,1.0,False,False
+Pyrimidine metabolism,15,89371,0.06269897951309038,33,0.0033,True,0.1254,False,False
+Drug metabolism - other enzymes,8,7286,0.005111554807850158,0,0.0,True,0.0,True,True
+Galactose metabolism,1,41777,0.029309007028212472,9603,0.9603,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,3,52989,0.037174880279051886,7831,0.7831,False,1.0,False,False
+Pentose phosphate pathway,2,51305,0.03599345586285374,9099,0.9099,False,1.0,False,False
+Pentose and glucuronate interconversions,1,32217,0.022602108323429668,9169,0.9169,False,1.0,False,False
+"Valine, leucine and isoleucine biosynthesis",1,38882,0.02727799533884571,9516,0.9516,False,1.0,False,False
+Pyruvate metabolism,4,95946,0.06731172626873337,9443,0.9443,False,1.0,False,False
+beta-Alanine metabolism,1,15690,0.011007451953770104,7041,0.7041,False,1.0,False,False
+Pantothenate and CoA biosynthesis,1,28178,0.019768513776503124,8876,0.8876,False,1.0,False,False
+Thiamine metabolism,1,7874,0.005524071171700816,4571,0.4571,False,1.0,False,False
+Citrate cycle (TCA cycle),1,0,0.0,0,0.0,True,0.0,True,False
+Oxidative phosphorylation,9,62255,0.04367552080190936,491,0.0491,True,1.0,False,False
+Biotin metabolism,1,17503,0.0122793774089763,7453,0.7453,False,1.0,False,False
+"Glycine, serine and threonine metabolism",3,54804,0.038448208851141925,7957,0.7957,False,1.0,False,False
+Geraniol degradation,1,8961,0.006286665198070995,4932,0.4932,False,1.0,False,False
+Lysine biosynthesis,2,18189,0.0127606465001354,4092,0.4092,False,1.0,False,False
+Arginine and proline metabolism,2,71864,0.050416795870346386,9732,0.9732,False,1.0,False,False
+Tryptophan metabolism,2,13186,0.009250749615195194,2717,0.2717,False,1.0,False,False
+1- and 2-Methylnaphthalene degradation,1,3531,0.0024772028584297157,2403,0.2403,False,1.0,False,False
+Naphthalene and anthracene degradation,1,18059,0.012669443902685425,7566,0.7566,False,1.0,False,False
+Reductive carboxylate cycle (CO2 fixation),3,0,0.0,0,0.0,True,0.0,True,True
+Limonene and pinene degradation,1,8681,0.006090228834332586,4894,0.4894,False,1.0,False,False
+Vitamin B6 metabolism,1,10138,0.007112399484214233,5518,0.5518,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.045117924958502816,9944,0.9944,False,1.0,False,False
+Folate biosynthesis,2,20526,0.01440018857890919,4706,0.4706,False,1.0,False,False
+Methane metabolism,12,93361,0.0654981976963627,557,0.0557,False,1.0,False,False
+Glycolysis / Gluconeogenesis,1,87006,0.06103979379794275,9982,0.9982,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",1,67045,0.04703598573871999,9959,0.9959,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.05918627639438248,9991,0.9991,False,1.0,False,False
+Histidine metabolism,1,20207,0.014176391435935787,7929,0.7929,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,1,21839,0.01532133481315394,8172,0.8172,False,1.0,False,False
+Photosynthesis,8,20869,0.01464082312448874,1,0.0001,True,0.0038,True,True
+Penicillin and cephalosporin biosynthesis,1,1221,0.0008566028575878456,925,0.0925,False,1.0,False,False
+beta-Lactam resistance,1,1221,0.0008566028575878456,850,0.085,False,1.0,False,False
+Glutathione metabolism,1,37830,0.026539955857942835,9491,0.9491,False,1.0,False,False
+Biosynthesis of siderophore group nonribosomal peptides,1,2878,0.0020190851958540703,2028,0.2028,False,1.0,False,False

@@ -1,0 +1,19 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pentose and glucuronate interconversions,2,32217,0.03466228559993286,8623,0.8623,False,1.0,False,False
+Purine metabolism,19,154034,0.165725253751127,3078,0.3078,False,1.0,False,False
+Pyrimidine metabolism,7,89371,0.09615430134250862,8607,0.8607,False,1.0,False,False
+Galactose metabolism,3,41777,0.04494789414000047,8376,0.8376,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,3,52989,0.05701089026460696,9294,0.9294,False,1.0,False,False
+Starch and sucrose metabolism,1,63933,0.0687855450619396,9988,0.9988,False,1.0,False,False
+Riboflavin metabolism,1,10723,0.011536880792379182,6954,0.6954,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,1,21839,0.023496590471395035,9090,0.909,False,1.0,False,False
+Pantothenate and CoA biosynthesis,1,28178,0.030316723581801788,9524,0.9524,False,1.0,False,False
+Oxidative phosphorylation,28,62255,0.06698018406505325,0,0.0,True,0.0,True,True
+Nitrogen metabolism,28,84364,0.09076726766467194,0,0.0,True,0.0,True,True
+Fatty acid metabolism,1,22395,0.02409479113544081,9130,0.913,False,1.0,False,False
+Toluene and xylene degradation,1,7460,0.008026217542772423,5555,0.5555,False,1.0,False,False
+Taurine and hypotaurine metabolism,1,12423,0.01336591159971338,7474,0.7474,False,1.0,False,False
+Pyruvate metabolism,1,95946,0.10322834696499235,10000,1.0,False,1.0,False,False
+Propanoate metabolism,1,56189,0.06045377178429487,9987,0.9987,False,1.0,False,False
+Methane metabolism,1,93361,0.10044714423736946,10000,1.0,False,1.0,False,False
+Reductive carboxylate cycle (CO2 fixation),1,0,0.0,0,0.0,True,0.0,True,False

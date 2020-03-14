@@ -1,0 +1,11 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Cell motility,5,144533,0.03468948241428794,16,0.0016,True,0.016,True,True
+Cell wall/membrane/envelope biogenesis,1,520583,0.12494554754746154,9537,0.9537,False,1.0,False,False
+Carbohydrate transport and metabolism,2,679809,0.1631615087943561,9052,0.9052,False,1.0,False,False
+Amino acid transport and metabolism,4,660007,0.15840881473301557,5054,0.5054,False,1.0,False,False
+Transcription,3,424603,0.10190930999532219,4207,0.4207,False,1.0,False,False
+Nucleotide transport and metabolism,1,160339,0.038483093278521265,5912,0.5912,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.09432904858034806,8976,0.8976,False,1.0,False,False
+General function prediction only,1,254764,0.06114611402097551,7596,0.7596,False,1.0,False,False
+Energy production and conversion,4,589566,0.1415022132596852,4172,0.4172,False,1.0,False,False
+Signal transduction mechanisms,1,339255,0.08142486737602661,8599,0.8599,False,1.0,False,False

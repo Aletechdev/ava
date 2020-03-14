@@ -1,0 +1,7 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Nucleotide transport and metabolism,4,160339,0.06649549864884816,550,0.055,False,0.33,False,False
+Transcription,4,424603,0.17609058440427391,5609,0.5609,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",2,270912,0.11235213223206303,7143,0.7143,False,1.0,False,False
+Energy production and conversion,6,589566,0.24450373992856894,4494,0.4494,False,1.0,False,False
+Inorganic ion transport and metabolism,4,305849,0.1268411413707929,3023,0.3023,False,1.0,False,False
+Amino acid transport and metabolism,2,660007,0.27371690341545307,9928,0.9928,False,1.0,False,False

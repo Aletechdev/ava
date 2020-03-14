@@ -1,0 +1,4 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Energy production and conversion,2,589566,0.4356107177056118,8886,0.8886,False,1.0,False,False
+Transcription,3,424603,0.31372504108099164,3815,0.3815,False,1.0,False,False
+Signal transduction mechanisms,2,339255,0.25066424121339653,5522,0.5522,False,1.0,False,False

@@ -1,0 +1,20 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Signal transduction mechanisms,24,339255,0.059236259005568385,10,0.001,True,0.019,True,True
+Carbohydrate transport and metabolism,16,679809,0.11869933235565118,9782,0.9782,False,1.0,False,False
+Nucleotide transport and metabolism,9,160339,0.02799629344503052,1239,0.1239,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",10,270912,0.04730310061669406,5159,0.5159,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",13,393020,0.0686239982148192,6612,0.6612,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,19,520583,0.09089737637439628,4994,0.4994,False,1.0,False,False
+General function prediction only,13,254764,0.0444835486265335,1302,0.1302,False,1.0,False,False
+Transcription,23,424603,0.07413860748564163,347,0.0347,True,0.6593,False,False
+Amino acid transport and metabolism,30,660007,0.11524176680517066,1099,0.1099,False,1.0,False,False
+Energy production and conversion,11,589566,0.10294228317011372,9953,0.9953,False,1.0,False,False
+"Replication, recombination and repair",8,309957,0.054120626468553035,8689,0.8689,False,1.0,False,False
+Cell motility,4,144533,0.025236457009776763,7645,0.7645,False,1.0,False,False
+Inorganic ion transport and metabolism,10,305849,0.05340334138212874,6740,0.674,False,1.0,False,False
+Defense mechanisms,3,135950,0.023737806109879064,8657,0.8657,False,1.0,False,False
+Lipid transport and metabolism,4,183775,0.03208838041811714,8992,0.8992,False,1.0,False,False
+"Mobilome: prophages, transposons",4,28915,0.005048758099795169,218,0.0218,True,0.4142,False,False
+"Intracellular trafficking, secretion, and vesicular transport",1,60493,0.010562494336189145,8869,0.8869,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.009095796496373152,8562,0.8562,False,1.0,False,False
+Coenzyme transport and metabolism,3,212728,0.03714377357956862,9840,0.984,False,1.0,False,False
