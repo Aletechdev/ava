@@ -1,34 +1,34 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Arginine and proline metabolism,9,71864,0.05554250241139663,3276,0.3276,False,1.0,False,False
-Histidine metabolism,5,20207,0.015617657606410606,654,0.0654,False,1.0,False,False
-beta-Alanine metabolism,5,15690,0.012126542675537309,279,0.0279,True,0.9207000000000001,False,False
-Purine metabolism,27,154034,0.11905034254198303,38,0.0038,True,0.1254,False,False
-Glycolysis / Gluconeogenesis,10,87006,0.06724550490935621,4126,0.4126,False,1.0,False,False
-Pyruvate metabolism,9,95946,0.07415508371874459,6700,0.67,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,9,50115,0.03873305839289689,755,0.0755,False,1.0,False,False
-Pyrimidine metabolism,14,89371,0.06907337447134766,795,0.0795,False,1.0,False,False
-Peptidoglycan biosynthesis,1,27943,0.02159668463878515,9470,0.947,False,1.0,False,False
-Folate biosynthesis,1,20526,0.015864207454307125,8823,0.8823,False,1.0,False,False
+Arginine and proline metabolism,9,71864,0.05554250241139663,3283,0.3283,False,1.0,False,False
+Histidine metabolism,5,20207,0.015617657606410606,599,0.0599,False,1.0,False,False
+beta-Alanine metabolism,5,15690,0.012126542675537309,232,0.0232,True,0.7656,False,False
+Purine metabolism,27,154034,0.11905034254198303,46,0.0046,True,0.1518,False,False
+Glycolysis / Gluconeogenesis,10,87006,0.06724550490935621,4207,0.4207,False,1.0,False,False
+Pyruvate metabolism,9,95946,0.07415508371874459,6704,0.6704,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,9,50115,0.03873305839289689,799,0.0799,False,1.0,False,False
+Pyrimidine metabolism,14,89371,0.06907337447134766,816,0.0816,False,1.0,False,False
+Peptidoglycan biosynthesis,1,27943,0.02159668463878515,9460,0.946,False,1.0,False,False
+Folate biosynthesis,1,20526,0.015864207454307125,8826,0.8826,False,1.0,False,False
 Pentose phosphate pathway,1,51305,0.03965278980041056,9953,0.9953,False,1.0,False,False
-Aminoacyl-tRNA biosynthesis,5,50763,0.03923388692404719,6038,0.6038,False,1.0,False,False
-"Alanine, aspartate and glutamate metabolism",2,67045,0.05181797665273415,9932,0.9932,False,1.0,False,False
-Butanoate metabolism,3,68327,0.05280881334553459,9763,0.9763,False,1.0,False,False
-T cell receptor signaling pathway,1,1730,0.0013370885168055796,1658,0.1658,False,1.0,False,False
-Nicotinate and nicotinamide metabolism,2,21839,0.016879003536715058,6631,0.6631,False,1.0,False,False
-Fructose and mannose metabolism,3,26580,0.020543244379590927,5207,0.5207,False,1.0,False,False
-Puromycin biosynthesis,1,3071,0.0023735253382138354,2693,0.2693,False,1.0,False,False
-alpha-Linolenic acid metabolism,1,11958,0.00924214132020874,7207,0.7207,False,1.0,False,False
-Trinitrotoluene degradation,1,3071,0.0023735253382138354,2639,0.2639,False,1.0,False,False
-Biotin metabolism,1,17503,0.013527780525808128,8344,0.8344,False,1.0,False,False
-Porphyrin and chlorophyll metabolism,2,32074,0.0247894665248683,8489,0.8489,False,1.0,False,False
-Isoquinoline alkaloid biosynthesis,1,12870,0.009947011104790642,7338,0.7338,False,1.0,False,False
-Insect hormone biosynthesis,1,4604,0.0035583557984814385,3821,0.3821,False,1.0,False,False
-Biosynthesis of type II polyketide products,1,5975,0.004617979125961467,4749,0.4749,False,1.0,False,False
-Cyanoamino acid metabolism,1,9402,0.007266651002893676,6293,0.6293,False,1.0,False,False
-Nitrogen metabolism,1,84364,0.06520354660796873,9999,0.9999,False,1.0,False,False
-Drug metabolism - other enzymes,2,7286,0.005631229441297949,1746,0.1746,False,1.0,False,False
-"Valine, leucine and isoleucine biosynthesis",2,38882,0.030051257636089332,9174,0.9174,False,1.0,False,False
-C5-Branched dibasic acid metabolism,2,14265,0.011025183637128089,4388,0.4388,False,1.0,False,False
-Pantothenate and CoA biosynthesis,2,28178,0.021778312269680706,7870,0.787,False,1.0,False,False
-Starch and sucrose metabolism,3,63933,0.04941276308955556,9648,0.9648,False,1.0,False,False
-Cysteine and methionine metabolism,5,36129,0.02792350926223629,3197,0.3197,False,1.0,False,False
+Aminoacyl-tRNA biosynthesis,5,50763,0.03923388692404719,6094,0.6094,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",2,67045,0.05181797665273415,9936,0.9936,False,1.0,False,False
+Butanoate metabolism,3,68327,0.05280881334553459,9761,0.9761,False,1.0,False,False
+T cell receptor signaling pathway,1,1730,0.0013370885168055796,1595,0.1595,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,2,21839,0.016879003536715058,6630,0.663,False,1.0,False,False
+Fructose and mannose metabolism,3,26580,0.020543244379590927,5260,0.526,False,1.0,False,False
+Puromycin biosynthesis,1,3071,0.0023735253382138354,2725,0.2725,False,1.0,False,False
+alpha-Linolenic acid metabolism,1,11958,0.00924214132020874,7121,0.7121,False,1.0,False,False
+Trinitrotoluene degradation,1,3071,0.0023735253382138354,2746,0.2746,False,1.0,False,False
+Biotin metabolism,1,17503,0.013527780525808128,8456,0.8456,False,1.0,False,False
+Porphyrin and chlorophyll metabolism,2,32074,0.0247894665248683,8415,0.8415,False,1.0,False,False
+Isoquinoline alkaloid biosynthesis,1,12870,0.009947011104790642,7416,0.7416,False,1.0,False,False
+Insect hormone biosynthesis,1,4604,0.0035583557984814385,3786,0.3786,False,1.0,False,False
+Biosynthesis of type II polyketide products,1,5975,0.004617979125961467,4701,0.4701,False,1.0,False,False
+Cyanoamino acid metabolism,1,9402,0.007266651002893676,6193,0.6193,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.06520354660796873,9998,0.9998,False,1.0,False,False
+Drug metabolism - other enzymes,2,7286,0.005631229441297949,1706,0.1706,False,1.0,False,False
+"Valine, leucine and isoleucine biosynthesis",2,38882,0.030051257636089332,9133,0.9133,False,1.0,False,False
+C5-Branched dibasic acid metabolism,2,14265,0.011025183637128089,4268,0.4268,False,1.0,False,False
+Pantothenate and CoA biosynthesis,2,28178,0.021778312269680706,7913,0.7913,False,1.0,False,False
+Starch and sucrose metabolism,3,63933,0.04941276308955556,9636,0.9636,False,1.0,False,False
+Cysteine and methionine metabolism,5,36129,0.02792350926223629,3129,0.3129,False,1.0,False,False

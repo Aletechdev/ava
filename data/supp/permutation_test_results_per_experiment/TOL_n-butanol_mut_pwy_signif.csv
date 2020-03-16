@@ -1,13 +1,13 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Pyrimidine metabolism,8,89371,0.13294824344266196,768,0.0768,False,0.9216,False,False
+Pyrimidine metabolism,8,89371,0.13294824344266196,807,0.0807,False,0.9683999999999999,False,False
 Drug metabolism - other enzymes,8,7286,0.010838649021754652,0,0.0,True,0.0,True,True
-"Valine, leucine and isoleucine biosynthesis",1,38882,0.0578408387680297,8717,0.8717,False,1.0,False,False
-Pyruvate metabolism,1,95946,0.142729209311182,9954,0.9954,False,1.0,False,False
-Amino sugar and nucleotide sugar metabolism,2,52989,0.07882640310372734,7744,0.7744,False,1.0,False,False
-Pentose and glucuronate interconversions,4,32217,0.04792598895606227,892,0.0892,False,1.0,False,False
-"Alanine, aspartate and glutamate metabolism",3,67045,0.09973609987147142,6853,0.6853,False,1.0,False,False
-Arginine and proline metabolism,2,71864,0.10690484124339505,9053,0.9053,False,1.0,False,False
+"Valine, leucine and isoleucine biosynthesis",1,38882,0.0578408387680297,8726,0.8726,False,1.0,False,False
+Pyruvate metabolism,1,95946,0.142729209311182,9957,0.9957,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,2,52989,0.07882640310372734,7708,0.7708,False,1.0,False,False
+Pentose and glucuronate interconversions,4,32217,0.04792598895606227,876,0.0876,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",3,67045,0.09973609987147142,6946,0.6946,False,1.0,False,False
+Arginine and proline metabolism,2,71864,0.10690484124339505,9009,0.9009,False,1.0,False,False
 D-Glutamine and D-glutamate metabolism,2,0,0.0,0,0.0,True,0.0,True,True
-Nitrogen metabolism,2,84364,0.12549983338887039,9436,0.9436,False,1.0,False,False
-Butanoate metabolism,1,68327,0.10164320226591136,9758,0.9758,False,1.0,False,False
-Starch and sucrose metabolism,1,63933,0.09510669062693387,9715,0.9715,False,1.0,False,False
+Nitrogen metabolism,2,84364,0.12549983338887039,9466,0.9466,False,1.0,False,False
+Butanoate metabolism,1,68327,0.10164320226591136,9778,0.9778,False,1.0,False,False
+Starch and sucrose metabolism,1,63933,0.09510669062693387,9704,0.9704,False,1.0,False,False

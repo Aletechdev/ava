@@ -1,20 +1,20 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Purine metabolism,9,154034,0.15589065773360727,8425,0.8425,False,1.0,False,False
-Pyrimidine metabolism,14,89371,0.09044823852078251,83,0.0083,True,0.1577,False,False
-Nicotinate and nicotinamide metabolism,5,21839,0.02210223765041646,274,0.0274,True,0.5206000000000001,False,False
+Purine metabolism,9,154034,0.15589065773360727,8508,0.8508,False,1.0,False,False
+Pyrimidine metabolism,14,89371,0.09044823852078251,66,0.0066,True,0.1254,False,False
+Nicotinate and nicotinamide metabolism,5,21839,0.02210223765041646,241,0.0241,True,0.4579,False,False
 D-Glutamine and D-glutamate metabolism,1,0,0.0,0,0.0,True,0.0,True,False
-Peptidoglycan biosynthesis,3,27943,0.02827981256768108,3551,0.3551,False,1.0,False,False
-Aminoacyl-tRNA biosynthesis,1,50763,0.05137487475837221,9817,0.9817,False,1.0,False,False
-Arginine and proline metabolism,2,71864,0.07273021688307746,9741,0.9741,False,1.0,False,False
+Peptidoglycan biosynthesis,3,27943,0.02827981256768108,3578,0.3578,False,1.0,False,False
+Aminoacyl-tRNA biosynthesis,1,50763,0.05137487475837221,9805,0.9805,False,1.0,False,False
+Arginine and proline metabolism,2,71864,0.07273021688307746,9785,0.9785,False,1.0,False,False
 Drug metabolism - other enzymes,4,7286,0.0073738222226720235,21,0.0021,True,0.0399,True,True
-Lysine degradation,1,21091,0.021345221589126495,8059,0.8059,False,1.0,False,False
-Pyruvate metabolism,2,95946,0.09710249066380593,9948,0.9948,False,1.0,False,False
-Propanoate metabolism,2,56189,0.05686627736339807,9257,0.9257,False,1.0,False,False
-Butanoate metabolism,2,68327,0.06915058344887612,9695,0.9695,False,1.0,False,False
-Oxidative phosphorylation,8,62255,0.06300539424546348,1000,0.1,False,1.0,False,False
-Photosynthesis,8,20869,0.021120545699278407,1,0.0001,True,0.0019,True,True
-Methane metabolism,8,93361,0.09448633221670091,4160,0.416,False,1.0,False,False
-"Glycine, serine and threonine metabolism",1,54804,0.05546458318574219,9845,0.9845,False,1.0,False,False
-Cysteine and methionine metabolism,1,36129,0.03656448299243996,9383,0.9383,False,1.0,False,False
-Lysine biosynthesis,1,18189,0.018408242164175328,7535,0.7535,False,1.0,False,False
-Glutathione metabolism,2,37830,0.03828598609438411,7837,0.7837,False,1.0,False,False
+Lysine degradation,1,21091,0.021345221589126495,8051,0.8051,False,1.0,False,False
+Pyruvate metabolism,2,95946,0.09710249066380593,9953,0.9953,False,1.0,False,False
+Propanoate metabolism,2,56189,0.05686627736339807,9320,0.932,False,1.0,False,False
+Butanoate metabolism,2,68327,0.06915058344887612,9693,0.9693,False,1.0,False,False
+Oxidative phosphorylation,8,62255,0.06300539424546348,976,0.0976,False,1.0,False,False
+Photosynthesis,8,20869,0.021120545699278407,0,0.0,True,0.0,True,True
+Methane metabolism,8,93361,0.09448633221670091,4207,0.4207,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.05546458318574219,9854,0.9854,False,1.0,False,False
+Cysteine and methionine metabolism,1,36129,0.03656448299243996,9402,0.9402,False,1.0,False,False
+Lysine biosynthesis,1,18189,0.018408242164175328,7462,0.7462,False,1.0,False,False
+Glutathione metabolism,2,37830,0.03828598609438411,7781,0.7781,False,1.0,False,False

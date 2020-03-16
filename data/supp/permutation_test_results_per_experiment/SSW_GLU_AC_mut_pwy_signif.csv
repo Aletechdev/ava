@@ -1,19 +1,19 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 Citrate cycle (TCA cycle),14,0,0.0,0,0.0,True,0.0,True,True
-Glutathione metabolism,14,37830,0.044661356416041256,1,0.0001,True,0.0018000000000000002,True,True
+Glutathione metabolism,14,37830,0.044661356416041256,2,0.0002,True,0.0036000000000000003,True,True
 Reductive carboxylate cycle (CO2 fixation),14,0,0.0,0,0.0,True,0.0,True,True
-Pentose and glucuronate interconversions,1,32217,0.038034758648046556,9762,0.9762,False,1.0,False,False
-Starch and sucrose metabolism,1,63933,0.0754780465172288,9998,0.9998,False,1.0,False,False
+Pentose and glucuronate interconversions,1,32217,0.038034758648046556,9768,0.9768,False,1.0,False,False
+Starch and sucrose metabolism,1,63933,0.0754780465172288,9995,0.9995,False,1.0,False,False
 Glycosaminoglycan degradation,1,0,0.0,0,0.0,True,0.0,True,False
-Porphyrin and chlorophyll metabolism,1,32074,0.037865935651284884,9756,0.9756,False,1.0,False,False
-Flavone and flavonol biosynthesis,1,1371,0.00161857572419753,1445,0.1445,False,1.0,False,False
+Porphyrin and chlorophyll metabolism,1,32074,0.037865935651284884,9730,0.973,False,1.0,False,False
+Flavone and flavonol biosynthesis,1,1371,0.00161857572419753,1427,0.1427,False,1.0,False,False
 Drug metabolism - other enzymes,10,7286,0.008601708772066523,0,0.0,True,0.0,True,True
-Glycolysis / Gluconeogenesis,2,87006,0.10271757801570408,9996,0.9996,False,1.0,False,False
-Purine metabolism,11,154034,0.1818495208614459,9740,0.974,False,1.0,False,False
-Pyruvate metabolism,2,95946,0.11327196676430067,9999,0.9999,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,2,50115,0.05916478659238455,9806,0.9806,False,1.0,False,False
-Pyrimidine metabolism,18,89371,0.10550965065445474,113,0.0113,True,0.2034,False,False
-"Glycine, serine and threonine metabolism",1,54804,0.06470052807361155,9983,0.9983,False,1.0,False,False
-One carbon pool by folate,1,17276,0.020395706937444587,8616,0.8616,False,1.0,False,False
+Glycolysis / Gluconeogenesis,2,87006,0.10271757801570408,9998,0.9998,False,1.0,False,False
+Purine metabolism,11,154034,0.1818495208614459,9752,0.9752,False,1.0,False,False
+Pyruvate metabolism,2,95946,0.11327196676430067,9998,0.9998,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,2,50115,0.05916478659238455,9813,0.9813,False,1.0,False,False
+Pyrimidine metabolism,18,89371,0.10550965065445474,120,0.012,True,0.216,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.06470052807361155,9980,0.998,False,1.0,False,False
+One carbon pool by folate,1,17276,0.020395706937444587,8608,0.8608,False,1.0,False,False
 Nitrogen metabolism,1,84364,0.09959848460700249,10000,1.0,False,1.0,False,False
-Lipopolysaccharide biosynthesis,1,39414,0.046531395764785884,9897,0.9897,False,1.0,False,False
+Lipopolysaccharide biosynthesis,1,39414,0.046531395764785884,9904,0.9904,False,1.0,False,False

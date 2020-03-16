@@ -1,13 +1,13 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Coenzyme transport and metabolism,1,212728,0.04792117722351915,9822,0.9822,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,11,520583,0.11727158720314801,3612,0.3612,False,1.0,False,False
-Defense mechanisms,7,135950,0.03062541857930046,139,0.0139,True,0.1668,False,False
+Coenzyme transport and metabolism,1,212728,0.04792117722351915,9815,0.9815,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,11,520583,0.11727158720314801,3698,0.3698,False,1.0,False,False
+Defense mechanisms,7,135950,0.03062541857930046,136,0.0136,True,0.16319999999999998,False,False
 "Mobilome: prophages, transposons",28,28915,0.006513673984703735,0,0.0,True,0.0,True,True
-"Posttranslational modification, protein turnover, chaperones",1,270912,0.06102827067418497,9954,0.9954,False,1.0,False,False
-Transcription,16,424603,0.09565019937496663,46,0.0046,True,0.0552,False,False
-Lipid transport and metabolism,1,183775,0.0413989429894148,9692,0.9692,False,1.0,False,False
-Carbohydrate transport and metabolism,3,679809,0.15314038381004536,9998,0.9998,False,1.0,False,False
-Signal transduction mechanisms,6,339255,0.07642387922118851,5930,0.593,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",1,270912,0.06102827067418497,9939,0.9939,False,1.0,False,False
+Transcription,16,424603,0.09565019937496663,50,0.005,True,0.06,False,False
+Lipid transport and metabolism,1,183775,0.0413989429894148,9667,0.9667,False,1.0,False,False
+Carbohydrate transport and metabolism,3,679809,0.15314038381004536,10000,1.0,False,1.0,False,False
+Signal transduction mechanisms,6,339255,0.07642387922118851,6070,0.607,False,1.0,False,False
 Amino acid transport and metabolism,1,660007,0.1486795927934414,10000,1.0,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",1,393020,0.08853550577445139,9997,0.9997,False,1.0,False,False
-Energy production and conversion,6,589566,0.13281136837163557,9681,0.9681,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.08853550577445139,9995,0.9995,False,1.0,False,False
+Energy production and conversion,6,589566,0.13281136837163557,9683,0.9683,False,1.0,False,False

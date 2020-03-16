@@ -1,12 +1,12 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Transcription,15,424603,0.09745955089964675,1768,0.1768,False,1.0,False,False
-General function prediction only,3,254764,0.05847623550798653,9732,0.9732,False,1.0,False,False
-Carbohydrate transport and metabolism,21,679809,0.1560372391093279,3039,0.3039,False,1.0,False,False
+Transcription,15,424603,0.09745955089964675,1759,0.1759,False,1.0,False,False
+General function prediction only,3,254764,0.05847623550798653,9745,0.9745,False,1.0,False,False
+Carbohydrate transport and metabolism,21,679809,0.1560372391093279,3041,0.3041,False,1.0,False,False
 "Mobilome: prophages, transposons",33,28915,0.0066368888450229644,0,0.0,True,0.0,True,True
-Nucleotide transport and metabolism,9,160339,0.03680277089822366,319,0.0319,True,0.3509,False,False
-Signal transduction mechanisms,11,339255,0.07786953917061269,3253,0.3253,False,1.0,False,False
-Amino acid transport and metabolism,13,660007,0.1514920662610089,9299,0.9299,False,1.0,False,False
+Nucleotide transport and metabolism,9,160339,0.03680277089822366,369,0.0369,True,0.40590000000000004,False,False
+Signal transduction mechanisms,11,339255,0.07786953917061269,3202,0.3202,False,1.0,False,False
+Amino acid transport and metabolism,13,660007,0.1514920662610089,9284,0.9284,False,1.0,False,False
 Cell wall/membrane/envelope biogenesis,5,520583,0.1194899362133353,9990,0.999,False,1.0,False,False
-Energy production and conversion,7,589566,0.13532367313867574,9971,0.9971,False,1.0,False,False
-Inorganic ion transport and metabolism,1,305849,0.0702018266076925,9999,0.9999,False,1.0,False,False
+Energy production and conversion,7,589566,0.13532367313867574,9982,0.9982,False,1.0,False,False
+Inorganic ion transport and metabolism,1,305849,0.0702018266076925,9996,0.9996,False,1.0,False,False
 "Translation, ribosomal structure and biogenesis",1,393020,0.09021027334846708,10000,1.0,False,1.0,False,False

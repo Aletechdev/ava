@@ -1,3 +1,3 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 Pyrimidine metabolism,3,89371,0.9246200482117177,9993,0.9993,False,1.0,False,False
-Drug metabolism - other enzymes,3,7286,0.07537995178828227,67,0.0067,True,0.0134,True,True
+Drug metabolism - other enzymes,3,7286,0.07537995178828227,74,0.0074,True,0.0148,True,True

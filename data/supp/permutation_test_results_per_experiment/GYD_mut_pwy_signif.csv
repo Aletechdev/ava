@@ -1,29 +1,29 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Purine metabolism,36,154034,0.12114076831908671,399,0.0399,True,1.0,False,False
+Purine metabolism,36,154034,0.12114076831908671,371,0.0371,True,1.0,False,False
 Glycerolipid metabolism,31,16744,0.013168398046761025,0,0.0,True,0.0,True,True
-"Glycine, serine and threonine metabolism",2,54804,0.0431008651788516,9996,0.9996,False,1.0,False,False
-Cysteine and methionine metabolism,2,36129,0.02841382304296638,9865,0.9865,False,1.0,False,False
-Lysine biosynthesis,2,18189,0.014304825135722425,8263,0.8263,False,1.0,False,False
-Pyrimidine metabolism,21,89371,0.07028624592911369,971,0.0971,False,1.0,False,False
-Fructose and mannose metabolism,4,26580,0.020903966799026997,6846,0.6846,False,1.0,False,False
-Drug metabolism - other enzymes,2,7286,0.005730109183510561,3640,0.364,False,1.0,False,False
+"Glycine, serine and threonine metabolism",2,54804,0.0431008651788516,9994,0.9994,False,1.0,False,False
+Cysteine and methionine metabolism,2,36129,0.02841382304296638,9864,0.9864,False,1.0,False,False
+Lysine biosynthesis,2,18189,0.014304825135722425,8324,0.8324,False,1.0,False,False
+Pyrimidine metabolism,21,89371,0.07028624592911369,980,0.098,False,1.0,False,False
+Fructose and mannose metabolism,4,26580,0.020903966799026997,6832,0.6832,False,1.0,False,False
+Drug metabolism - other enzymes,2,7286,0.005730109183510561,3593,0.3593,False,1.0,False,False
 Nitrogen metabolism,1,84364,0.06634846708175747,10000,1.0,False,1.0,False,False
-Ubiquinone and other terpenoid-quinone biosynthesis,1,22230,0.01748288871115012,9788,0.9788,False,1.0,False,False
-Biosynthesis of siderophore group nonribosomal peptides,1,2878,0.002263416721128657,3976,0.3976,False,1.0,False,False
+Ubiquinone and other terpenoid-quinone biosynthesis,1,22230,0.01748288871115012,9802,0.9802,False,1.0,False,False
+Biosynthesis of siderophore group nonribosomal peptides,1,2878,0.002263416721128657,3951,0.3951,False,1.0,False,False
 Oxidative phosphorylation,1,62255,0.04896073939328163,10000,1.0,False,1.0,False,False
-Photosynthesis,1,20869,0.01641252381974772,9730,0.973,False,1.0,False,False
+Photosynthesis,1,20869,0.01641252381974772,9725,0.9725,False,1.0,False,False
 Methane metabolism,4,93361,0.07342420031316628,10000,1.0,False,1.0,False,False
-Vitamin B6 metabolism,1,10138,0.007973078081585242,8278,0.8278,False,1.0,False,False
+Vitamin B6 metabolism,1,10138,0.007973078081585242,8325,0.8325,False,1.0,False,False
 Glycolysis / Gluconeogenesis,3,87006,0.06842628048593465,10000,1.0,False,1.0,False,False
-Pentose phosphate pathway,4,51305,0.04034906006862604,9778,0.9778,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,3,50115,0.03941317893654018,9930,0.993,False,1.0,False,False
+Pentose phosphate pathway,4,51305,0.04034906006862604,9797,0.9797,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,3,50115,0.03941317893654018,9929,0.9929,False,1.0,False,False
 "Valine, leucine and isoleucine biosynthesis",24,38882,0.03057893292248938,0,0.0,True,0.0,True,True
-Pyruvate metabolism,6,95946,0.07545718579757127,9998,0.9998,False,1.0,False,False
-"Alanine, aspartate and glutamate metabolism",4,67045,0.052727857563610425,9974,0.9974,False,1.0,False,False
+Pyruvate metabolism,6,95946,0.07545718579757127,9995,0.9995,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",4,67045,0.052727857563610425,9972,0.9972,False,1.0,False,False
 Histidine metabolism,36,20207,0.01589189078660416,0,0.0,True,0.0,True,True
-Tyrosine metabolism,6,26682,0.020984185181777214,3220,0.322,False,1.0,False,False
-Phenylalanine metabolism,6,29184,0.022951894923356055,3991,0.3991,False,1.0,False,False
-"Phenylalanine, tyrosine and tryptophan biosynthesis",6,25467,0.020028642681370223,2875,0.2875,False,1.0,False,False
+Tyrosine metabolism,6,26682,0.020984185181777214,3192,0.3192,False,1.0,False,False
+Phenylalanine metabolism,6,29184,0.022951894923356055,3928,0.3928,False,1.0,False,False
+"Phenylalanine, tyrosine and tryptophan biosynthesis",6,25467,0.020028642681370223,2800,0.28,False,1.0,False,False
 Novobiocin biosynthesis,6,2484,0.0019535535563876246,0,0.0,True,0.0,True,True
-"Tropane, piperidine and pyridine alkaloid biosynthesis",6,13663,0.010745331014864782,329,0.0329,True,0.9212,False,False
-Glyoxylate and dicarboxylate metabolism,1,64311,0.050577690324011486,9999,0.9999,False,1.0,False,False
+"Tropane, piperidine and pyridine alkaloid biosynthesis",6,13663,0.010745331014864782,351,0.0351,True,0.9828,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.050577690324011486,10000,1.0,False,1.0,False,False

@@ -1,6 +1,6 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 "Mobilome: prophages, transposons",8,28915,0.015353923467740565,0,0.0,True,0.0,True,True
-Nucleotide transport and metabolism,1,160339,0.08514033321438888,7988,0.7988,False,1.0,False,False
-Carbohydrate transport and metabolism,4,679809,0.36097995361166335,9317,0.9317,False,1.0,False,False
-Transcription,3,424603,0.22546505157091637,8101,0.8101,False,1.0,False,False
-Energy production and conversion,2,589566,0.31306073813529084,9894,0.9894,False,1.0,False,False
+Nucleotide transport and metabolism,1,160339,0.08514033321438888,8024,0.8024,False,1.0,False,False
+Carbohydrate transport and metabolism,4,679809,0.36097995361166335,9296,0.9296,False,1.0,False,False
+Transcription,3,424603,0.22546505157091637,8045,0.8045,False,1.0,False,False
+Energy production and conversion,2,589566,0.31306073813529084,9895,0.9895,False,1.0,False,False

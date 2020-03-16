@@ -1,5 +1,5 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 "Mobilome: prophages, transposons",4,28915,0.022016117488327613,0,0.0,True,0.0,True,True
-Transcription,3,424603,0.3232961969184288,6023,0.6023,False,1.0,False,False
-Signal transduction mechanisms,1,339255,0.25831153167914866,9346,0.9346,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,1,520583,0.39637615391409486,9893,0.9893,False,1.0,False,False
+Transcription,3,424603,0.3232961969184288,6013,0.6013,False,1.0,False,False
+Signal transduction mechanisms,1,339255,0.25831153167914866,9307,0.9307,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.39637615391409486,9889,0.9889,False,1.0,False,False
