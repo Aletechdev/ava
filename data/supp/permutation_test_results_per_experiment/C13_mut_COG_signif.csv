@@ -1,9 +1,9 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Cell wall/membrane/envelope biogenesis,2,520583,0.2106400575536308,9813,0.9813,False,1.0,False,False
-Nucleotide transport and metabolism,6,160339,0.06487690951892706,45,0.0045,True,0.036,True,True
-Signal transduction mechanisms,2,339255,0.1372705077295206,8773,0.8773,False,1.0,False,False
-Inorganic ion transport and metabolism,1,305849,0.12375365880699221,9648,0.9648,False,1.0,False,False
-Transcription,10,424603,0.1718043047073076,46,0.0046,True,0.0368,True,True
-"Cell cycle control, cell division, chromosome partitioning",1,115057,0.04655475323233394,6992,0.6992,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",2,393020,0.15902508422235836,9253,0.9253,False,1.0,False,False
-Coenzyme transport and metabolism,1,212728,0.08607472422892944,8989,0.8989,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,2,520583,0.2106400575536308,9788,0.9788,False,1.0,False,False
+Nucleotide transport and metabolism,6,160339,0.06487690951892706,50,0.005,True,0.04,True,True
+Signal transduction mechanisms,2,339255,0.1372705077295206,8761,0.8761,False,1.0,False,False
+Inorganic ion transport and metabolism,1,305849,0.12375365880699221,9659,0.9659,False,1.0,False,False
+Transcription,10,424603,0.1718043047073076,65,0.0065,True,0.052,False,False
+"Cell cycle control, cell division, chromosome partitioning",1,115057,0.04655475323233394,7014,0.7014,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",2,393020,0.15902508422235836,9303,0.9303,False,1.0,False,False
+Coenzyme transport and metabolism,1,212728,0.08607472422892944,8963,0.8963,False,1.0,False,False

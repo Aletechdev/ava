@@ -1,10 +1,10 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Pyrimidine metabolism,8,89371,0.2321994133373518,9033,0.9033,False,1.0,False,False
-Drug metabolism - other enzymes,4,7286,0.018930133103310307,119,0.0119,True,0.1071,False,False
-Purine metabolism,10,154034,0.40020369509131204,9988,0.9988,False,1.0,False,False
+Pyrimidine metabolism,8,89371,0.2321994133373518,8990,0.899,False,1.0,False,False
+Drug metabolism - other enzymes,4,7286,0.018930133103310307,110,0.011,True,0.09899999999999999,False,False
+Purine metabolism,10,154034,0.40020369509131204,9989,0.9989,False,1.0,False,False
 Citrate cycle (TCA cycle),6,0,0.0,0,0.0,True,0.0,True,True
-Glyoxylate and dicarboxylate metabolism,1,64311,0.16708973236439598,9999,0.9999,False,1.0,False,False
-Lysine degradation,5,21091,0.054797616975283785,1267,0.1267,False,1.0,False,False
-Selenoamino acid metabolism,4,18563,0.04822948954114043,1984,0.1984,False,1.0,False,False
-Sulfur metabolism,6,17047,0.04429069160199434,181,0.0181,True,0.16290000000000002,False,False
-Tryptophan metabolism,4,13186,0.03425922798521132,782,0.0782,False,0.7038000000000001,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.16708973236439598,9998,0.9998,False,1.0,False,False
+Lysine degradation,5,21091,0.054797616975283785,1212,0.1212,False,1.0,False,False
+Selenoamino acid metabolism,4,18563,0.04822948954114043,1947,0.1947,False,1.0,False,False
+Sulfur metabolism,6,17047,0.04429069160199434,193,0.0193,True,0.17370000000000002,False,False
+Tryptophan metabolism,4,13186,0.03425922798521132,773,0.0773,False,0.6957,False,False

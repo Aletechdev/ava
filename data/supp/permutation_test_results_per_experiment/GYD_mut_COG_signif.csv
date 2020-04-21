@@ -1,19 +1,19 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-General function prediction only,5,254764,0.044958421701115546,9969,0.9969,False,1.0,False,False
+General function prediction only,5,254764,0.044958421701115546,9949,0.9949,False,1.0,False,False
 Nucleotide transport and metabolism,23,160339,0.02829516092201082,0,0.0,True,0.0,True,True
-Energy production and conversion,39,589566,0.10404121794539214,417,0.0417,True,0.7506,False,False
+Energy production and conversion,39,589566,0.10404121794539214,403,0.0403,True,0.7254,False,False
 Amino acid transport and metabolism,76,660007,0.11647200166306136,0,0.0,True,0.0,True,True
-Transcription,27,424603,0.07493005577537942,1168,0.1168,False,1.0,False,False
-Carbohydrate transport and metabolism,31,679809,0.11996647759578927,7266,0.7266,False,1.0,False,False
-"Replication, recombination and repair",3,309957,0.05469837777398954,9998,0.9998,False,1.0,False,False
+Transcription,27,424603,0.07493005577537942,1068,0.1068,False,1.0,False,False
+Carbohydrate transport and metabolism,31,679809,0.11996647759578927,7315,0.7315,False,1.0,False,False
+"Replication, recombination and repair",3,309957,0.05469837777398954,9999,0.9999,False,1.0,False,False
 "Posttranslational modification, protein turnover, chaperones",1,270912,0.047808073118229474,10000,1.0,False,1.0,False,False
 Inorganic ion transport and metabolism,1,305849,0.05397343548878369,10000,1.0,False,1.0,False,False
-Coenzyme transport and metabolism,3,212728,0.03754029270868297,9982,0.9982,False,1.0,False,False
+Coenzyme transport and metabolism,3,212728,0.03754029270868297,9987,0.9987,False,1.0,False,False
 "Translation, ribosomal structure and biogenesis",43,393020,0.0693565766629996,0,0.0,True,0.0,True,True
-"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.009192896412665102,9270,0.927,False,1.0,False,False
-Lipid transport and metabolism,3,183775,0.032430931953190044,9955,0.9955,False,1.0,False,False
-Cell motility,2,144533,0.025505862538378,9945,0.9945,False,1.0,False,False
-Signal transduction mechanisms,7,339255,0.05986862097553796,9980,0.998,False,1.0,False,False
-Defense mechanisms,1,135950,0.023991213163031898,9986,0.9986,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,15,520583,0.09186772873887925,9937,0.9937,False,1.0,False,False
-"Mobilome: prophages, transposons",1,28915,0.005102654862883908,7576,0.7576,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.009192896412665102,9248,0.9248,False,1.0,False,False
+Lipid transport and metabolism,3,183775,0.032430931953190044,9948,0.9948,False,1.0,False,False
+Cell motility,2,144533,0.025505862538378,9944,0.9944,False,1.0,False,False
+Signal transduction mechanisms,7,339255,0.05986862097553796,9988,0.9988,False,1.0,False,False
+Defense mechanisms,1,135950,0.023991213163031898,9989,0.9989,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,15,520583,0.09186772873887925,9936,0.9936,False,1.0,False,False
+"Mobilome: prophages, transposons",1,28915,0.005102654862883908,7599,0.7599,False,1.0,False,False

@@ -1,23 +1,23 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Purine metabolism,12,154034,0.14600628257164577,1855,0.1855,False,1.0,False,False
-Pyrimidine metabolism,10,89371,0.08471329368652736,342,0.0342,True,0.7524000000000001,False,False
-Pentose phosphate pathway,4,51305,0.04863116147953235,3596,0.3596,False,1.0,False,False
-Pentose and glucuronate interconversions,2,32217,0.030537961785129984,5696,0.5696,False,1.0,False,False
-Arginine and proline metabolism,3,71864,0.06811869775977221,8023,0.8023,False,1.0,False,False
-Glyoxylate and dicarboxylate metabolism,2,64311,0.06095933390332726,8982,0.8982,False,1.0,False,False
-Drug metabolism - other enzymes,3,7286,0.006906278969688582,93,0.0093,True,0.20459999999999998,False,False
-Cysteine and methionine metabolism,1,36129,0.03424608192367263,8862,0.8862,False,1.0,False,False
-Lysine biosynthesis,1,18189,0.017241052453975517,6653,0.6653,False,1.0,False,False
-Tyrosine metabolism,1,26682,0.025291426773158213,7991,0.7991,False,1.0,False,False
-Phenylalanine metabolism,1,29184,0.027663031217594235,8272,0.8272,False,1.0,False,False
-"Phenylalanine, tyrosine and tryptophan biosynthesis",1,25467,0.02413974835589612,7844,0.7844,False,1.0,False,False
-Novobiocin biosynthesis,1,2484,0.002354542541958062,1360,0.136,False,1.0,False,False
-Isoquinoline alkaloid biosynthesis,1,12870,0.012199260271739234,5369,0.5369,False,1.0,False,False
-"Tropane, piperidine and pyridine alkaloid biosynthesis",1,13663,0.012950931864240338,5591,0.5591,False,1.0,False,False
-Glycolysis / Gluconeogenesis,1,87006,0.082471549277618,9957,0.9957,False,1.0,False,False
-Pyruvate metabolism,3,95946,0.09094562750833664,9288,0.9288,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,1,50115,0.0475031801490452,9514,0.9514,False,1.0,False,False
-Amino sugar and nucleotide sugar metabolism,2,52989,0.05022739724469233,8238,0.8238,False,1.0,False,False
-Peptidoglycan biosynthesis,2,27943,0.0264867078300862,4882,0.4882,False,1.0,False,False
-"Valine, leucine and isoleucine biosynthesis",8,38882,0.03685560511932905,19,0.0019,True,0.0418,True,True
-"Alanine, aspartate and glutamate metabolism",1,67045,0.06355084731303473,9836,0.9836,False,1.0,False,False
+Purine metabolism,12,154034,0.14600628257164577,1835,0.1835,False,1.0,False,False
+Pyrimidine metabolism,10,89371,0.08471329368652736,374,0.0374,True,0.8228000000000001,False,False
+Pentose phosphate pathway,4,51305,0.04863116147953235,3497,0.3497,False,1.0,False,False
+Pentose and glucuronate interconversions,2,32217,0.030537961785129984,5671,0.5671,False,1.0,False,False
+Arginine and proline metabolism,3,71864,0.06811869775977221,8013,0.8013,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,2,64311,0.06095933390332726,8972,0.8972,False,1.0,False,False
+Drug metabolism - other enzymes,3,7286,0.006906278969688582,86,0.0086,True,0.1892,False,False
+Cysteine and methionine metabolism,1,36129,0.03424608192367263,8909,0.8909,False,1.0,False,False
+Lysine biosynthesis,1,18189,0.017241052453975517,6643,0.6643,False,1.0,False,False
+Tyrosine metabolism,1,26682,0.025291426773158213,7918,0.7918,False,1.0,False,False
+Phenylalanine metabolism,1,29184,0.027663031217594235,8191,0.8191,False,1.0,False,False
+"Phenylalanine, tyrosine and tryptophan biosynthesis",1,25467,0.02413974835589612,7797,0.7797,False,1.0,False,False
+Novobiocin biosynthesis,1,2484,0.002354542541958062,1349,0.1349,False,1.0,False,False
+Isoquinoline alkaloid biosynthesis,1,12870,0.012199260271739234,5324,0.5324,False,1.0,False,False
+"Tropane, piperidine and pyridine alkaloid biosynthesis",1,13663,0.012950931864240338,5544,0.5544,False,1.0,False,False
+Glycolysis / Gluconeogenesis,1,87006,0.082471549277618,9952,0.9952,False,1.0,False,False
+Pyruvate metabolism,3,95946,0.09094562750833664,9284,0.9284,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,1,50115,0.0475031801490452,9475,0.9475,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,2,52989,0.05022739724469233,8213,0.8213,False,1.0,False,False
+Peptidoglycan biosynthesis,2,27943,0.0264867078300862,4917,0.4917,False,1.0,False,False
+"Valine, leucine and isoleucine biosynthesis",8,38882,0.03685560511932905,25,0.0025,True,0.055,False,False
+"Alanine, aspartate and glutamate metabolism",1,67045,0.06355084731303473,9828,0.9828,False,1.0,False,False

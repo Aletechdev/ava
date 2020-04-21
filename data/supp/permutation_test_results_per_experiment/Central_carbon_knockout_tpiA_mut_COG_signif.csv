@@ -1,11 +1,11 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Nucleotide transport and metabolism,5,160339,0.05298122878622863,2963,0.2963,False,1.0,False,False
-Transcription,17,424603,0.14030266302221564,124,0.0124,True,0.124,False,False
-Carbohydrate transport and metabolism,14,679809,0.22463103898575704,6914,0.6914,False,1.0,False,False
-Energy production and conversion,9,589566,0.194811812039377,9300,0.93,False,1.0,False,False
-Inorganic ion transport and metabolism,8,305849,0.10106247290452877,3839,0.3839,False,1.0,False,False
-Defense mechanisms,1,135950,0.04492230869275586,9585,0.9585,False,1.0,False,False
-Signal transduction mechanisms,9,339255,0.11210090353483552,3581,0.3581,False,1.0,False,False
-"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.01721322417603333,3318,0.3318,False,1.0,False,False
-"Replication, recombination and repair",2,309957,0.10241988992630031,9952,0.9952,False,1.0,False,False
-"Mobilome: prophages, transposons",1,28915,0.009554457931967898,4735,0.4735,False,1.0,False,False
+Nucleotide transport and metabolism,5,160339,0.05298122878622863,2923,0.2923,False,1.0,False,False
+Transcription,17,424603,0.14030266302221564,107,0.0107,True,0.107,False,False
+Carbohydrate transport and metabolism,14,679809,0.22463103898575704,6819,0.6819,False,1.0,False,False
+Energy production and conversion,9,589566,0.194811812039377,9333,0.9333,False,1.0,False,False
+Inorganic ion transport and metabolism,8,305849,0.10106247290452877,3764,0.3764,False,1.0,False,False
+Defense mechanisms,1,135950,0.04492230869275586,9579,0.9579,False,1.0,False,False
+Signal transduction mechanisms,9,339255,0.11210090353483552,3511,0.3511,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.01721322417603333,3353,0.3353,False,1.0,False,False
+"Replication, recombination and repair",2,309957,0.10241988992630031,9927,0.9927,False,1.0,False,False
+"Mobilome: prophages, transposons",1,28915,0.009554457931967898,4767,0.4767,False,1.0,False,False

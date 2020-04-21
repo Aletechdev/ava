@@ -1,8 +1,8 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 D-Glutamine and D-glutamate metabolism,1,0,0.0,0,0.0,True,0.0,True,False
-Peptidoglycan biosynthesis,2,27943,0.07683043852437606,6385,0.6385,False,1.0,False,False
-Pyrimidine metabolism,12,89371,0.2457292746434532,272,0.0272,True,0.19039999999999999,False,False
-Drug metabolism - other enzymes,5,7286,0.020033159470658268,1,0.0001,True,0.0007,True,True
-Purine metabolism,6,154034,0.4235228775601668,9951,0.9951,False,1.0,False,False
-Amino sugar and nucleotide sugar metabolism,1,52989,0.1456954552828316,9882,0.9882,False,1.0,False,False
-Porphyrin and chlorophyll metabolism,1,32074,0.08818879451851404,9238,0.9238,False,1.0,False,False
+Peptidoglycan biosynthesis,2,27943,0.07683043852437606,6458,0.6458,False,1.0,False,False
+Pyrimidine metabolism,12,89371,0.2457292746434532,265,0.0265,True,0.1855,False,False
+Drug metabolism - other enzymes,5,7286,0.020033159470658268,2,0.0002,True,0.0014,True,True
+Purine metabolism,6,154034,0.4235228775601668,9936,0.9936,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,1,52989,0.1456954552828316,9874,0.9874,False,1.0,False,False
+Porphyrin and chlorophyll metabolism,1,32074,0.08818879451851404,9216,0.9216,False,1.0,False,False

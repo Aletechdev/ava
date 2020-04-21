@@ -1,11 +1,11 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Nucleotide transport and metabolism,4,160339,0.04027077075782307,75,0.0075,True,0.075,False,False
-Transcription,5,424603,0.10664336235154236,547,0.0547,False,0.5469999999999999,False,False
-"Cell cycle control, cell division, chromosome partitioning",2,115057,0.028897735866400872,1164,0.1164,False,1.0,False,False
-Energy production and conversion,3,589566,0.14807549774294912,5836,0.5836,False,1.0,False,False
-General function prediction only,1,254764,0.06398656996330299,7380,0.738,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",1,393020,0.09871097065118047,8704,0.8704,False,1.0,False,False
-Lipid transport and metabolism,1,183775,0.04615696053997428,6111,0.6111,False,1.0,False,False
-Amino acid transport and metabolism,1,660007,0.16576747139222855,9715,0.9715,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,1,520583,0.13074971562389567,9434,0.9434,False,1.0,False,False
-Carbohydrate transport and metabolism,1,679809,0.17074094511070262,9758,0.9758,False,1.0,False,False
+Nucleotide transport and metabolism,4,160339,0.04027077075782307,71,0.0071,True,0.07100000000000001,False,False
+Transcription,5,424603,0.10664336235154236,534,0.0534,False,0.534,False,False
+"Cell cycle control, cell division, chromosome partitioning",2,115057,0.028897735866400872,1129,0.1129,False,1.0,False,False
+Energy production and conversion,3,589566,0.14807549774294912,5911,0.5911,False,1.0,False,False
+General function prediction only,1,254764,0.06398656996330299,7327,0.7327,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.09871097065118047,8776,0.8776,False,1.0,False,False
+Lipid transport and metabolism,1,183775,0.04615696053997428,6129,0.6129,False,1.0,False,False
+Amino acid transport and metabolism,1,660007,0.16576747139222855,9759,0.9759,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.13074971562389567,9417,0.9417,False,1.0,False,False
+Carbohydrate transport and metabolism,1,679809,0.17074094511070262,9772,0.9772,False,1.0,False,False

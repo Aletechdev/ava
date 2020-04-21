@@ -1,8 +1,8 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Pyrimidine metabolism,8,89371,0.17368228759770368,196,0.0196,True,0.1372,False,False
-Drug metabolism - other enzymes,4,7286,0.014159505291838171,3,0.0003,True,0.0021,True,True
-Purine metabolism,4,154034,0.2993474112164426,9118,0.9118,False,1.0,False,False
-Glyoxylate and dicarboxylate metabolism,1,64311,0.1249810519933303,9382,0.9382,False,1.0,False,False
-Methane metabolism,1,93361,0.1814363949425341,9837,0.9837,False,1.0,False,False
-Nitrogen metabolism,1,84364,0.1639517574033263,9778,0.9778,False,1.0,False,False
-Nicotinate and nicotinamide metabolism,2,21839,0.04244159155482484,2260,0.226,False,1.0,False,False
+Pyrimidine metabolism,8,89371,0.17368228759770368,189,0.0189,True,0.1323,False,False
+Drug metabolism - other enzymes,4,7286,0.014159505291838171,2,0.0002,True,0.0014,True,True
+Purine metabolism,4,154034,0.2993474112164426,9194,0.9194,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.1249810519933303,9379,0.9379,False,1.0,False,False
+Methane metabolism,1,93361,0.1814363949425341,9853,0.9853,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.1639517574033263,9765,0.9765,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,2,21839,0.04244159155482484,2204,0.2204,False,1.0,False,False

@@ -1,5 +1,5 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Pyrimidine metabolism,4,89371,0.32149692068608265,5736,0.5736,False,1.0,False,False
-Drug metabolism - other enzymes,2,7286,0.02621014159088293,354,0.0354,True,0.1416,False,False
-Purine metabolism,2,154034,0.554111027972833,9983,0.9983,False,1.0,False,False
-Betalain biosynthesis,4,27293,0.09818190975020145,228,0.0228,True,0.0912,False,False
+Pyrimidine metabolism,4,89371,0.32149692068608265,5790,0.579,False,1.0,False,False
+Drug metabolism - other enzymes,2,7286,0.02621014159088293,392,0.0392,True,0.1568,False,False
+Purine metabolism,2,154034,0.554111027972833,9988,0.9988,False,1.0,False,False
+Betalain biosynthesis,4,27293,0.09818190975020145,227,0.0227,True,0.0908,False,False

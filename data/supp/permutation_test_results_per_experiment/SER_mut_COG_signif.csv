@@ -1,8 +1,8 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Amino acid transport and metabolism,7,660007,0.23078854363832882,3024,0.3024,False,1.0,False,False
-Carbohydrate transport and metabolism,4,679809,0.23771282586734485,8580,0.858,False,1.0,False,False
-Coenzyme transport and metabolism,1,212728,0.07438585546985776,8442,0.8442,False,1.0,False,False
-Transcription,9,424603,0.14847343739455085,58,0.0058,True,0.0406,True,True
-Inorganic ion transport and metabolism,1,305849,0.10694802522282222,9358,0.9358,False,1.0,False,False
-Lipid transport and metabolism,1,183775,0.06426168905350076,7923,0.7923,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",1,393020,0.1374296233535947,9712,0.9712,False,1.0,False,False
+Amino acid transport and metabolism,7,660007,0.23078854363832882,3086,0.3086,False,1.0,False,False
+Carbohydrate transport and metabolism,4,679809,0.23771282586734485,8558,0.8558,False,1.0,False,False
+Coenzyme transport and metabolism,1,212728,0.07438585546985776,8455,0.8455,False,1.0,False,False
+Transcription,9,424603,0.14847343739455085,61,0.0061,True,0.0427,True,True
+Inorganic ion transport and metabolism,1,305849,0.10694802522282222,9352,0.9352,False,1.0,False,False
+Lipid transport and metabolism,1,183775,0.06426168905350076,7983,0.7983,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.1374296233535947,9746,0.9746,False,1.0,False,False

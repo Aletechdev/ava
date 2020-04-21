@@ -1,20 +1,20 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Lipid transport and metabolism,2,183775,0.03218240766262645,9825,0.9825,False,1.0,False,False
-Nucleotide transport and metabolism,11,160339,0.028078329817537,146,0.0146,True,0.2774,False,False
+Lipid transport and metabolism,2,183775,0.03218240766262645,9834,0.9834,False,1.0,False,False
+Nucleotide transport and metabolism,11,160339,0.028078329817537,166,0.0166,True,0.3154,False,False
 Transcription,24,424603,0.07435585275893988,50,0.005,True,0.095,False,False
-Signal transduction mechanisms,13,339255,0.059409836547867426,2724,0.2724,False,1.0,False,False
-Carbohydrate transport and metabolism,22,679809,0.11904715206487511,5007,0.5007,False,1.0,False,False
-"Posttranslational modification, protein turnover, chaperones",3,270912,0.04744171092203758,9926,0.9926,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",13,393020,0.06882508425828021,4771,0.4771,False,1.0,False,False
-"Replication, recombination and repair",11,309957,0.054279213885918685,3956,0.3956,False,1.0,False,False
-Coenzyme transport and metabolism,4,212728,0.037252614432078356,9067,0.9067,False,1.0,False,False
-Amino acid transport and metabolism,9,660007,0.11557945495408567,9992,0.9992,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,27,520583,0.09116372917008878,71,0.0071,True,0.13490000000000002,False,False
-Inorganic ion transport and metabolism,9,305849,0.05355982696888389,6346,0.6346,False,1.0,False,False
-General function prediction only,6,254764,0.04461389691612768,8135,0.8135,False,1.0,False,False
-"Intracellular trafficking, secretion, and vesicular transport",4,60493,0.010593445173365593,1240,0.124,False,1.0,False,False
-Energy production and conversion,10,589566,0.10324393065446347,9916,0.9916,False,1.0,False,False
-Cell motility,1,144533,0.02531040634853701,9894,0.9894,False,1.0,False,False
-Defense mechanisms,8,135950,0.0238073640143331,661,0.0661,False,1.0,False,False
-Extracellular structures,2,12182,0.002133293919989745,593,0.0593,False,1.0,False,False
-"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.009122449529964357,4806,0.4806,False,1.0,False,False
+Signal transduction mechanisms,13,339255,0.059409836547867426,2813,0.2813,False,1.0,False,False
+Carbohydrate transport and metabolism,22,679809,0.11904715206487511,4935,0.4935,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",3,270912,0.04744171092203758,9931,0.9931,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",13,393020,0.06882508425828021,4714,0.4714,False,1.0,False,False
+"Replication, recombination and repair",11,309957,0.054279213885918685,3968,0.3968,False,1.0,False,False
+Coenzyme transport and metabolism,4,212728,0.037252614432078356,9027,0.9027,False,1.0,False,False
+Amino acid transport and metabolism,9,660007,0.11557945495408567,9993,0.9993,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,27,520583,0.09116372917008878,76,0.0076,True,0.1444,False,False
+Inorganic ion transport and metabolism,9,305849,0.05355982696888389,6458,0.6458,False,1.0,False,False
+General function prediction only,6,254764,0.04461389691612768,8196,0.8196,False,1.0,False,False
+"Intracellular trafficking, secretion, and vesicular transport",4,60493,0.010593445173365593,1317,0.1317,False,1.0,False,False
+Energy production and conversion,10,589566,0.10324393065446347,9919,0.9919,False,1.0,False,False
+Cell motility,1,144533,0.02531040634853701,9900,0.99,False,1.0,False,False
+Defense mechanisms,8,135950,0.0238073640143331,708,0.0708,False,1.0,False,False
+Extracellular structures,2,12182,0.002133293919989745,596,0.0596,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.009122449529964357,4790,0.479,False,1.0,False,False

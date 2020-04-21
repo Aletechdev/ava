@@ -1,14 +1,14 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 Energy production and conversion,23,589566,0.14287362176922447,0,0.0,True,0.0,True,True
-Lipid transport and metabolism,2,183775,0.044535471585266495,7710,0.771,False,1.0,False,False
-"Replication, recombination and repair",1,309957,0.07511403164823532,9921,0.9921,False,1.0,False,False
-Transcription,15,424603,0.10289699274394727,16,0.0016,True,0.020800000000000003,True,True
-Carbohydrate transport and metabolism,7,679809,0.16474283446011934,8971,0.8971,False,1.0,False,False
-Nucleotide transport and metabolism,3,160339,0.038856063003727626,4407,0.4407,False,1.0,False,False
-"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.01262405833922616,1940,0.194,False,1.0,False,False
+Lipid transport and metabolism,2,183775,0.044535471585266495,7681,0.7681,False,1.0,False,False
+"Replication, recombination and repair",1,309957,0.07511403164823532,9944,0.9944,False,1.0,False,False
+Transcription,15,424603,0.10289699274394727,12,0.0012,True,0.0156,True,True
+Carbohydrate transport and metabolism,7,679809,0.16474283446011934,9020,0.902,False,1.0,False,False
+Nucleotide transport and metabolism,3,160339,0.038856063003727626,4310,0.431,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.01262405833922616,1849,0.1849,False,1.0,False,False
 Amino acid transport and metabolism,1,660007,0.15994407832717716,10000,1.0,False,1.0,False,False
-Signal transduction mechanisms,4,339255,0.08221401938598605,7636,0.7636,False,1.0,False,False
-General function prediction only,1,254764,0.06173872878764159,9817,0.9817,False,1.0,False,False
-Cell motility,1,144533,0.0350256852925225,8922,0.8922,False,1.0,False,False
-"Cell cycle control, cell division, chromosome partitioning",1,115057,0.027882561579028742,8269,0.8269,False,1.0,False,False
-Coenzyme transport and metabolism,1,212728,0.051551853077897274,9628,0.9628,False,1.0,False,False
+Signal transduction mechanisms,4,339255,0.08221401938598605,7590,0.759,False,1.0,False,False
+General function prediction only,1,254764,0.06173872878764159,9801,0.9801,False,1.0,False,False
+Cell motility,1,144533,0.0350256852925225,8896,0.8896,False,1.0,False,False
+"Cell cycle control, cell division, chromosome partitioning",1,115057,0.027882561579028742,8232,0.8232,False,1.0,False,False
+Coenzyme transport and metabolism,1,212728,0.051551853077897274,9608,0.9608,False,1.0,False,False

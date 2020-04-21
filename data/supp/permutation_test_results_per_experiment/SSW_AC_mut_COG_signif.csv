@@ -1,11 +1,11 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Cell motility,5,144533,0.03468948241428794,12,0.0012,True,0.011999999999999999,True,True
-Cell wall/membrane/envelope biogenesis,1,520583,0.12494554754746154,9523,0.9523,False,1.0,False,False
-Carbohydrate transport and metabolism,2,679809,0.1631615087943561,9134,0.9134,False,1.0,False,False
-Amino acid transport and metabolism,4,660007,0.15840881473301557,5030,0.503,False,1.0,False,False
-Transcription,3,424603,0.10190930999532219,4192,0.4192,False,1.0,False,False
-Nucleotide transport and metabolism,1,160339,0.038483093278521265,5970,0.597,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",1,393020,0.09432904858034806,8977,0.8977,False,1.0,False,False
-General function prediction only,1,254764,0.06114611402097551,7660,0.766,False,1.0,False,False
-Energy production and conversion,4,589566,0.1415022132596852,4178,0.4178,False,1.0,False,False
-Signal transduction mechanisms,1,339255,0.08142486737602661,8543,0.8543,False,1.0,False,False
+Cell motility,5,144533,0.03468948241428794,17,0.0017,True,0.016999999999999998,True,True
+Cell wall/membrane/envelope biogenesis,1,520583,0.12494554754746154,9543,0.9543,False,1.0,False,False
+Carbohydrate transport and metabolism,2,679809,0.1631615087943561,9106,0.9106,False,1.0,False,False
+Amino acid transport and metabolism,4,660007,0.15840881473301557,5034,0.5034,False,1.0,False,False
+Transcription,3,424603,0.10190930999532219,4278,0.4278,False,1.0,False,False
+Nucleotide transport and metabolism,1,160339,0.038483093278521265,5940,0.594,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",1,393020,0.09432904858034806,9012,0.9012,False,1.0,False,False
+General function prediction only,1,254764,0.06114611402097551,7625,0.7625,False,1.0,False,False
+Energy production and conversion,4,589566,0.1415022132596852,4088,0.4088,False,1.0,False,False
+Signal transduction mechanisms,1,339255,0.08142486737602661,8597,0.8597,False,1.0,False,False

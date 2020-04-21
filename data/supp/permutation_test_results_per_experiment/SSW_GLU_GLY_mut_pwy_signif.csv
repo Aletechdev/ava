@@ -1,8 +1,8 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Pyrimidine metabolism,8,89371,0.24102796454067116,1358,0.1358,False,0.9506,False,False
-Drug metabolism - other enzymes,5,7286,0.01964988362716463,1,0.0001,True,0.0007,True,True
-Taurine and hypotaurine metabolism,1,12423,0.03350404945103846,5212,0.5212,False,1.0,False,False
-Glycerolipid metabolism,3,16744,0.045157514610656674,781,0.0781,False,0.5467,False,False
-Purine metabolism,3,154034,0.4154200074974851,9991,0.9991,False,1.0,False,False
-"Glycine, serine and threonine metabolism",1,54804,0.14780294020081394,9700,0.97,False,1.0,False,False
-Cysteine and methionine metabolism,1,36129,0.09743764007217004,8987,0.8987,False,1.0,False,False
+Pyrimidine metabolism,8,89371,0.24102796454067116,1316,0.1316,False,0.9212,False,False
+Drug metabolism - other enzymes,5,7286,0.01964988362716463,0,0.0,True,0.0,True,True
+Taurine and hypotaurine metabolism,1,12423,0.03350404945103846,5284,0.5284,False,1.0,False,False
+Glycerolipid metabolism,3,16744,0.045157514610656674,755,0.0755,False,0.5285,False,False
+Purine metabolism,3,154034,0.4154200074974851,9992,0.9992,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.14780294020081394,9738,0.9738,False,1.0,False,False
+Cysteine and methionine metabolism,1,36129,0.09743764007217004,9023,0.9023,False,1.0,False,False

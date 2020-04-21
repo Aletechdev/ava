@@ -1,14 +1,14 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Biotin metabolism,1,17503,0.022795143252687087,6632,0.6632,False,1.0,False,False
+Biotin metabolism,1,17503,0.022795143252687087,6598,0.6598,False,1.0,False,False
 Purine metabolism,16,154034,0.2006071585319318,171,0.0171,True,0.2223,False,False
-Pyrimidine metabolism,15,89371,0.11639288965525325,1,0.0001,True,0.0013000000000000002,True,True
-Propanoate metabolism,1,56189,0.07317810113838968,9746,0.9746,False,1.0,False,False
-Glycolysis / Gluconeogenesis,1,87006,0.11331281687958022,9962,0.9962,False,1.0,False,False
-Pyruvate metabolism,1,95946,0.12495588267853026,9981,0.9981,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,1,50115,0.06526758864814108,9565,0.9565,False,1.0,False,False
-"Glycine, serine and threonine metabolism",1,54804,0.07137433758899978,9697,0.9697,False,1.0,False,False
-Glycerolipid metabolism,1,16744,0.021806654780494348,6496,0.6496,False,1.0,False,False
-Glyoxylate and dicarboxylate metabolism,1,64311,0.08375583944029934,9804,0.9804,False,1.0,False,False
-Fructose and mannose metabolism,1,26580,0.03461663187204609,8065,0.8065,False,1.0,False,False
-Peptidoglycan biosynthesis,1,27943,0.0363917435816623,8257,0.8257,False,1.0,False,False
-Betalain biosynthesis,6,27293,0.03554521195198473,70,0.007,True,0.091,False,False
+Pyrimidine metabolism,15,89371,0.11639288965525325,3,0.0003,True,0.0039,True,True
+Propanoate metabolism,1,56189,0.07317810113838968,9724,0.9724,False,1.0,False,False
+Glycolysis / Gluconeogenesis,1,87006,0.11331281687958022,9954,0.9954,False,1.0,False,False
+Pyruvate metabolism,1,95946,0.12495588267853026,9982,0.9982,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,1,50115,0.06526758864814108,9592,0.9592,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.07137433758899978,9691,0.9691,False,1.0,False,False
+Glycerolipid metabolism,1,16744,0.021806654780494348,6485,0.6485,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.08375583944029934,9839,0.9839,False,1.0,False,False
+Fructose and mannose metabolism,1,26580,0.03461663187204609,8083,0.8083,False,1.0,False,False
+Peptidoglycan biosynthesis,1,27943,0.0363917435816623,8181,0.8181,False,1.0,False,False
+Betalain biosynthesis,6,27293,0.03554521195198473,69,0.0069,True,0.0897,False,False

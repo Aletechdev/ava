@@ -1,37 +1,37 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-"Alanine, aspartate and glutamate metabolism",17,67045,0.056467839567157105,9307,0.9307,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",17,67045,0.056467839567157105,9303,0.9303,False,1.0,False,False
 beta-Alanine metabolism,28,15690,0.013214712548418151,0,0.0,True,0.0,True,True
 Taurine and hypotaurine metabolism,17,12423,0.010463121350477929,0,0.0,True,0.0,True,True
-Butanoate metabolism,25,68327,0.05754758854657534,4243,0.4243,False,1.0,False,False
-Glyoxylate and dicarboxylate metabolism,38,64311,0.0541651611664321,10,0.001,True,0.036000000000000004,True,True
+Butanoate metabolism,25,68327,0.05754758854657534,4159,0.4159,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,38,64311,0.0541651611664321,18,0.0018,True,0.0648,False,False
 Pyruvate metabolism,14,95946,0.08080935692610121,10000,1.0,False,1.0,False,False
-Benzoate degradation via hydroxylation,16,22288,0.018771798169480162,61,0.0061,True,0.21960000000000002,False,False
+Methane metabolism,27,93361,0.07863217197150203,8605,0.8605,False,1.0,False,False
+Nitrogen metabolism,33,84364,0.07105455764402478,2588,0.2588,False,1.0,False,False
 Phenylalanine metabolism,72,29184,0.02457987068279384,0,0.0,True,0.0,True,True
-Fatty acid elongation in mitochondria,8,6963,0.0058645024521756265,26,0.0026,True,0.09359999999999999,False,False
-Fatty acid metabolism,9,22395,0.01886191762408059,3722,0.3722,False,1.0,False,False
-"Valine, leucine and isoleucine degradation",8,9859,0.008303623391641462,246,0.0246,True,0.8856,False,False
-Geraniol degradation,8,8961,0.007547293763312622,156,0.0156,True,0.5616,False,False
-Lysine degradation,8,21091,0.017763639411006196,4417,0.4417,False,1.0,False,False
-Tryptophan metabolism,8,13186,0.011105748863189404,945,0.0945,False,1.0,False,False
-alpha-Linolenic acid metabolism,8,11958,0.010071480730018116,600,0.06,False,1.0,False,False
-"1,4-Dichlorobenzene degradation",8,25578,0.02154276083897001,6595,0.6595,False,1.0,False,False
-Propanoate metabolism,8,56189,0.04732450499573407,9992,0.9992,False,1.0,False,False
-Limonene and pinene degradation,8,8681,0.0073114671531432735,111,0.0111,True,0.3996,False,False
+Styrene degradation,8,4208,0.003544137055687927,0,0.0,True,0.0,True,True
+Benzoate degradation via hydroxylation,16,22288,0.018771798169480162,53,0.0053,True,0.1908,False,False
+Fatty acid elongation in mitochondria,8,6963,0.0058645024521756265,38,0.0038,True,0.1368,False,False
+Fatty acid metabolism,9,22395,0.01886191762408059,3723,0.3723,False,1.0,False,False
+"Valine, leucine and isoleucine degradation",8,9859,0.008303623391641462,221,0.0221,True,0.7956000000000001,False,False
+Geraniol degradation,8,8961,0.007547293763312622,144,0.0144,True,0.5184,False,False
+Lysine degradation,8,21091,0.017763639411006196,4423,0.4423,False,1.0,False,False
+Tryptophan metabolism,8,13186,0.011105748863189404,862,0.0862,False,1.0,False,False
+alpha-Linolenic acid metabolism,8,11958,0.010071480730018116,570,0.057,False,1.0,False,False
+"1,4-Dichlorobenzene degradation",8,25578,0.02154276083897001,6654,0.6654,False,1.0,False,False
+Propanoate metabolism,8,56189,0.04732450499573407,9991,0.9991,False,1.0,False,False
+Limonene and pinene degradation,8,8681,0.0073114671531432735,115,0.0115,True,0.414,False,False
 Caprolactam degradation,8,0,0.0,0,0.0,True,0.0,True,True
-Methane metabolism,27,93361,0.07863217197150203,8574,0.8574,False,1.0,False,False
-Nitrogen metabolism,33,84364,0.07105455764402478,2612,0.2612,False,1.0,False,False
-Styrene degradation,8,4208,0.003544137055687927,1,0.0001,True,0.0036000000000000003,True,True
 Arginine and proline metabolism,3,71864,0.06052658397575029,10000,1.0,False,1.0,False,False
-Glutathione metabolism,7,37830,0.03186185950966594,9793,0.9793,False,1.0,False,False
-Glycerophospholipid metabolism,3,35850,0.030194228480611263,9996,0.9996,False,1.0,False,False
-Phosphatidylinositol signaling system,3,3672,0.003092697544792317,1379,0.1379,False,1.0,False,False
-Vitamin B6 metabolism,2,10138,0.00853860776391735,8701,0.8701,False,1.0,False,False
+Glycerophospholipid metabolism,3,35850,0.030194228480611263,9997,0.9997,False,1.0,False,False
+Phosphatidylinositol signaling system,3,3672,0.003092697544792317,1384,0.1384,False,1.0,False,False
+Glutathione metabolism,7,37830,0.03186185950966594,9777,0.9777,False,1.0,False,False
+Vitamin B6 metabolism,2,10138,0.00853860776391735,8669,0.8669,False,1.0,False,False
 Glycolysis / Gluconeogenesis,1,87006,0.07327975015855129,10000,1.0,False,1.0,False,False
 "Glycine, serine and threonine metabolism",1,54804,0.04615800551328925,10000,1.0,False,1.0,False,False
-Tyrosine metabolism,1,26682,0.022472591473352014,10000,1.0,False,1.0,False,False
-Tetrachloroethene degradation,1,10279,0.008657363306895486,9696,0.9696,False,1.0,False,False
-Naphthalene and anthracene degradation,1,18059,0.015209974118029533,9981,0.9981,False,1.0,False,False
-Retinol metabolism,1,11386,0.009589720654957876,9815,0.9815,False,1.0,False,False
-Metabolism of xenobiotics by cytochrome P450,1,13215,0.0111301737620998,9898,0.9898,False,1.0,False,False
-Drug metabolism - cytochrome P450,1,13215,0.0111301737620998,9894,0.9894,False,1.0,False,False
+Tyrosine metabolism,1,26682,0.022472591473352014,9999,0.9999,False,1.0,False,False
+Tetrachloroethene degradation,1,10279,0.008657363306895486,9719,0.9719,False,1.0,False,False
+Naphthalene and anthracene degradation,1,18059,0.015209974118029533,9975,0.9975,False,1.0,False,False
+Retinol metabolism,1,11386,0.009589720654957876,9804,0.9804,False,1.0,False,False
+Metabolism of xenobiotics by cytochrome P450,1,13215,0.0111301737620998,9902,0.9902,False,1.0,False,False
+Drug metabolism - cytochrome P450,1,13215,0.0111301737620998,9889,0.9889,False,1.0,False,False
 Pentose phosphate pathway,1,51305,0.04321101512406585,10000,1.0,False,1.0,False,False

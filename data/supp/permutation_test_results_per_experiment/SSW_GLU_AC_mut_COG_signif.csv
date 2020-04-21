@@ -1,13 +1,13 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Energy production and conversion,14,589566,0.13141445865310245,167,0.0167,True,0.2004,False,False
-Carbohydrate transport and metabolism,5,679809,0.15152965354600997,9530,0.953,False,1.0,False,False
-Coenzyme transport and metabolism,1,212728,0.0474171423731307,9390,0.939,False,1.0,False,False
+Energy production and conversion,14,589566,0.13141445865310245,160,0.016,True,0.192,False,False
+Carbohydrate transport and metabolism,5,679809,0.15152965354600997,9532,0.9532,False,1.0,False,False
+Coenzyme transport and metabolism,1,212728,0.0474171423731307,9399,0.9399,False,1.0,False,False
 Transcription,12,424603,0.0946441507608703,78,0.0078,True,0.09359999999999999,False,False
-Signal transduction mechanisms,8,339255,0.07562005300569956,701,0.0701,False,0.8412,False,False
-"Intracellular trafficking, secretion, and vesicular transport",1,60493,0.01348390993934882,5459,0.5459,False,1.0,False,False
-Nucleotide transport and metabolism,9,160339,0.03573961674516474,3,0.0003,True,0.0036,True,True
-Defense mechanisms,3,135950,0.03030330048525403,2512,0.2512,False,1.0,False,False
-Amino acid transport and metabolism,2,660007,0.14711578112078746,9991,0.9991,False,1.0,False,False
-"Replication, recombination and repair",2,309957,0.06908951900336803,9214,0.9214,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,1,520583,0.11603812487322543,9992,0.9992,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",0,393020,0.08760428949403853,9958,0.9958,False,1.0,False,False
+Signal transduction mechanisms,8,339255,0.07562005300569956,629,0.0629,False,0.7547999999999999,False,False
+"Intracellular trafficking, secretion, and vesicular transport",1,60493,0.01348390993934882,5374,0.5374,False,1.0,False,False
+Nucleotide transport and metabolism,9,160339,0.03573961674516474,0,0.0,True,0.0,True,True
+Defense mechanisms,3,135950,0.03030330048525403,2577,0.2577,False,1.0,False,False
+Amino acid transport and metabolism,2,660007,0.14711578112078746,9989,0.9989,False,1.0,False,False
+"Replication, recombination and repair",2,309957,0.06908951900336803,9190,0.919,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.11603812487322543,9996,0.9996,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",0,393020,0.08760428949403853,9953,0.9953,False,1.0,False,False

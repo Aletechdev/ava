@@ -1,15 +1,15 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Purine metabolism,3,154034,0.2616466511525199,9515,0.9515,False,1.0,False,False
-Pyrimidine metabolism,4,89371,0.15180819079003244,4332,0.4332,False,1.0,False,False
-Drug metabolism - other enzymes,4,7286,0.012376212396595946,3,0.0003,True,0.0042,True,True
-Galactose metabolism,1,41777,0.0709636323486946,8013,0.8013,False,1.0,False,False
-Amino sugar and nucleotide sugar metabolism,1,52989,0.09000866300895177,8737,0.8737,False,1.0,False,False
-Vitamin B6 metabolism,1,10138,0.01722070289276554,3238,0.3238,False,1.0,False,False
-Starch and sucrose metabolism,1,63933,0.10859846104193915,9207,0.9207,False,1.0,False,False
-"Glycine, serine and threonine metabolism",1,54804,0.09309167501826027,8826,0.8826,False,1.0,False,False
-Cysteine and methionine metabolism,1,36129,0.06136977459190433,7524,0.7524,False,1.0,False,False
-Lysine biosynthesis,1,18189,0.030896366632127872,4992,0.4992,False,1.0,False,False
+Purine metabolism,3,154034,0.2616466511525199,9536,0.9536,False,1.0,False,False
+Pyrimidine metabolism,4,89371,0.15180819079003244,4317,0.4317,False,1.0,False,False
+Drug metabolism - other enzymes,4,7286,0.012376212396595946,2,0.0002,True,0.0028,True,True
+Galactose metabolism,1,41777,0.0709636323486946,7978,0.7978,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,1,52989,0.09000866300895177,8701,0.8701,False,1.0,False,False
+Vitamin B6 metabolism,1,10138,0.01722070289276554,3198,0.3198,False,1.0,False,False
+Starch and sucrose metabolism,1,63933,0.10859846104193915,9191,0.9191,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.09309167501826027,8830,0.883,False,1.0,False,False
+Cysteine and methionine metabolism,1,36129,0.06136977459190433,7471,0.7471,False,1.0,False,False
+Lysine biosynthesis,1,18189,0.030896366632127872,4959,0.4959,False,1.0,False,False
 Citrate cycle (TCA cycle),1,0,0.0,0,0.0,True,0.0,True,False
-Glutathione metabolism,1,37830,0.06425914287170253,7709,0.7709,False,1.0,False,False
+Glutathione metabolism,1,37830,0.06425914287170253,7672,0.7672,False,1.0,False,False
 Reductive carboxylate cycle (CO2 fixation),1,0,0.0,0,0.0,True,0.0,True,False
 Ubiquinone and other terpenoid-quinone biosynthesis,1,22230,0.03776052725450561,5720,0.572,False,1.0,False,False

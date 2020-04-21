@@ -1,21 +1,21 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
 Pyrimidine metabolism,35,89371,0.09129690828017019,0,0.0,True,0.0,True,True
 Drug metabolism - other enzymes,17,7286,0.0074430103023276,0,0.0,True,0.0,True,True
-Purine metabolism,21,154034,0.1573533693259305,5799,0.5799,False,1.0,False,False
+Purine metabolism,21,154034,0.1573533693259305,5672,0.5672,False,1.0,False,False
 Citrate cycle (TCA cycle),7,0,0.0,0,0.0,True,0.0,True,True
-Glutathione metabolism,9,37830,0.03864522093563727,820,0.082,False,1.0,False,False
+Glutathione metabolism,9,37830,0.03864522093563727,749,0.0749,False,1.0,False,False
 Reductive carboxylate cycle (CO2 fixation),11,0,0.0,0,0.0,True,0.0,True,True
-Taurine and hypotaurine metabolism,4,12423,0.012690710538816331,959,0.0959,False,1.0,False,False
-Pyruvate metabolism,5,95946,0.09801359682502388,9986,0.9986,False,1.0,False,False
-Propanoate metabolism,4,56189,0.05739984983221048,9541,0.9541,False,1.0,False,False
-Methane metabolism,4,93361,0.09537289113856809,9992,0.9992,False,1.0,False,False
-Cysteine and methionine metabolism,2,36129,0.03690756508547816,9614,0.9614,False,1.0,False,False
-Sulfur metabolism,2,17047,0.017414355836368186,6831,0.6831,False,1.0,False,False
-Pentose phosphate pathway,1,51305,0.05241060164163019,9995,0.9995,False,1.0,False,False
-Glycolysis / Gluconeogenesis,3,87006,0.0888809435032,9997,0.9997,False,1.0,False,False
-Carbon fixation in photosynthetic organisms,1,50115,0.05119495763123082,9990,0.999,False,1.0,False,False
-Nicotinate and nicotinamide metabolism,2,21839,0.022309621464799954,7977,0.7977,False,1.0,False,False
-Galactose metabolism,2,41777,0.042677277161726625,9815,0.9815,False,1.0,False,False
+Taurine and hypotaurine metabolism,4,12423,0.012690710538816331,957,0.0957,False,1.0,False,False
+Pyruvate metabolism,5,95946,0.09801359682502388,9990,0.999,False,1.0,False,False
+Propanoate metabolism,4,56189,0.05739984983221048,9531,0.9531,False,1.0,False,False
+Methane metabolism,4,93361,0.09537289113856809,9989,0.9989,False,1.0,False,False
+Cysteine and methionine metabolism,2,36129,0.03690756508547816,9660,0.966,False,1.0,False,False
+Sulfur metabolism,2,17047,0.017414355836368186,6868,0.6868,False,1.0,False,False
+Pentose phosphate pathway,1,51305,0.05241060164163019,9992,0.9992,False,1.0,False,False
+Glycolysis / Gluconeogenesis,3,87006,0.0888809435032,9999,0.9999,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,1,50115,0.05119495763123082,9993,0.9993,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,2,21839,0.022309621464799954,8099,0.8099,False,1.0,False,False
+Galactose metabolism,2,41777,0.042677277161726625,9801,0.9801,False,1.0,False,False
 Starch and sucrose metabolism,2,63933,0.06531072984610356,9987,0.9987,False,1.0,False,False
-Amino sugar and nucleotide sugar metabolism,2,52989,0.05413089114878359,9947,0.9947,False,1.0,False,False
-Streptomycin biosynthesis,2,10325,0.010547499501994576,4207,0.4207,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,2,52989,0.05413089114878359,9946,0.9946,False,1.0,False,False
+Streptomycin biosynthesis,2,10325,0.010547499501994576,4112,0.4112,False,1.0,False,False

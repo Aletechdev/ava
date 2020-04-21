@@ -1,15 +1,15 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Transcription,19,424603,0.08330506487684337,518,0.0518,False,0.7252,False,False
-Carbohydrate transport and metabolism,19,679809,0.13337525370490086,6615,0.6615,False,1.0,False,False
+Transcription,19,424603,0.08330506487684337,485,0.0485,True,0.679,False,False
+Carbohydrate transport and metabolism,19,679809,0.13337525370490086,6521,0.6521,False,1.0,False,False
 "Mobilome: prophages, transposons",32,28915,0.005672983824687829,0,0.0,True,0.0,True,True
-Inorganic ion transport and metabolism,8,305849,0.060006101670307725,6903,0.6903,False,1.0,False,False
-Amino acid transport and metabolism,9,660007,0.1294901966170064,9988,0.9988,False,1.0,False,False
-"Posttranslational modification, protein turnover, chaperones",2,270912,0.05315163043105064,9983,0.9983,False,1.0,False,False
-Signal transduction mechanisms,16,339255,0.06656019807866054,488,0.0488,True,0.6832,False,False
+Inorganic ion transport and metabolism,8,305849,0.060006101670307725,6998,0.6998,False,1.0,False,False
+Amino acid transport and metabolism,9,660007,0.1294901966170064,9987,0.9987,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",2,270912,0.05315163043105064,9972,0.9972,False,1.0,False,False
+Signal transduction mechanisms,16,339255,0.06656019807866054,465,0.0465,True,0.651,False,False
 Cell wall/membrane/envelope biogenesis,2,520583,0.10213587890048294,10000,1.0,False,1.0,False,False
-General function prediction only,5,254764,0.049983470555516864,8851,0.8851,False,1.0,False,False
-"Replication, recombination and repair",6,309957,0.06081207149744995,9016,0.9016,False,1.0,False,False
-Energy production and conversion,29,589566,0.11567001146760866,49,0.0049,True,0.0686,False,False
-Lipid transport and metabolism,1,183775,0.036055770443783705,9967,0.9967,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",3,393020,0.07710863229392394,9999,0.9999,False,1.0,False,False
-Defense mechanisms,1,135950,0.0266727356377766,9825,0.9825,False,1.0,False,False
+General function prediction only,5,254764,0.049983470555516864,8816,0.8816,False,1.0,False,False
+"Replication, recombination and repair",6,309957,0.06081207149744995,9060,0.906,False,1.0,False,False
+Energy production and conversion,29,589566,0.11567001146760866,46,0.0046,True,0.0644,False,False
+Lipid transport and metabolism,1,183775,0.036055770443783705,9963,0.9963,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",3,393020,0.07710863229392394,9994,0.9994,False,1.0,False,False
+Defense mechanisms,1,135950,0.0266727356377766,9867,0.9867,False,1.0,False,False

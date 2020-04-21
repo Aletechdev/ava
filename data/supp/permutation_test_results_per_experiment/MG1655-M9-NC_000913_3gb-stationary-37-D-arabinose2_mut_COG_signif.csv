@@ -1,7 +1,7 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-General function prediction only,3,254764,0.14157173499894418,5826,0.5826,False,1.0,False,False
-Transcription,6,424603,0.2359508541071607,3795,0.3795,False,1.0,False,False
-"Posttranslational modification, protein turnover, chaperones",1,270912,0.1505451393133801,9667,0.9667,False,1.0,False,False
+General function prediction only,3,254764,0.14157173499894418,5873,0.5873,False,1.0,False,False
+Transcription,6,424603,0.2359508541071607,3773,0.3773,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",1,270912,0.1505451393133801,9684,0.9684,False,1.0,False,False
 "Mobilome: prophages, transposons",8,28915,0.016067995154317213,0,0.0,True,0.0,True,True
-Nucleotide transport and metabolism,1,160339,0.08909999222023406,8549,0.8549,False,1.0,False,False
-Amino acid transport and metabolism,2,660007,0.36676428420596374,9988,0.9988,False,1.0,False,False
+Nucleotide transport and metabolism,1,160339,0.08909999222023406,8607,0.8607,False,1.0,False,False
+Amino acid transport and metabolism,2,660007,0.36676428420596374,9993,0.9993,False,1.0,False,False

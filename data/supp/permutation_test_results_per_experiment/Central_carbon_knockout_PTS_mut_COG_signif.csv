@@ -1,7 +1,7 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Nucleotide transport and metabolism,6,160339,0.0658599180298914,103,0.0103,True,0.0618,False,False
-Transcription,7,424603,0.17440746652558628,2286,0.2286,False,1.0,False,False
-Carbohydrate transport and metabolism,8,679809,0.27923440345756456,5853,0.5853,False,1.0,False,False
-Signal transduction mechanisms,6,339255,0.13935041687443983,2058,0.2058,False,1.0,False,False
-"Replication, recombination and repair",1,309957,0.1273161402577729,9801,0.9801,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,1,520583,0.21383165485474498,9991,0.9991,False,1.0,False,False
+Nucleotide transport and metabolism,6,160339,0.0658599180298914,111,0.0111,True,0.0666,False,False
+Transcription,7,424603,0.17440746652558628,2291,0.2291,False,1.0,False,False
+Carbohydrate transport and metabolism,8,679809,0.27923440345756456,5869,0.5869,False,1.0,False,False
+Signal transduction mechanisms,6,339255,0.13935041687443983,2085,0.2085,False,1.0,False,False
+"Replication, recombination and repair",1,309957,0.1273161402577729,9809,0.9809,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,1,520583,0.21383165485474498,9993,0.9993,False,1.0,False,False

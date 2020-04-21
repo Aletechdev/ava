@@ -1,16 +1,16 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Transcription,22,424603,0.08361034232541836,3,0.0003,True,0.0045,True,True
+Transcription,22,424603,0.08361034232541836,1,0.0001,True,0.0015,True,True
 "Mobilome: prophages, transposons",28,28915,0.005693772885117326,0,0.0,True,0.0,True,True
-"Cell cycle control, cell division, chromosome partitioning",7,115057,0.022656352303058767,150,0.015,True,0.22499999999999998,False,False
-Carbohydrate transport and metabolism,6,679809,0.13386401698975356,9992,0.9992,False,1.0,False,False
-Amino acid transport and metabolism,15,660007,0.12996472282855373,5777,0.5777,False,1.0,False,False
-Cell motility,3,144533,0.02846059403094112,6495,0.6495,False,1.0,False,False
-Inorganic ion transport and metabolism,10,305849,0.060225998379396475,1804,0.1804,False,1.0,False,False
-Nucleotide transport and metabolism,3,160339,0.03157301921586813,7164,0.7164,False,1.0,False,False
-Signal transduction mechanisms,4,339255,0.06680411274910872,9585,0.9585,False,1.0,False,False
-"Translation, ribosomal structure and biogenesis",8,393020,0.07739120246615291,7001,0.7001,False,1.0,False,False
-"Replication, recombination and repair",2,309957,0.06103492174139067,9943,0.9943,False,1.0,False,False
-Cell wall/membrane/envelope biogenesis,4,520583,0.10251016323199146,9982,0.9982,False,1.0,False,False
-"Posttranslational modification, protein turnover, chaperones",2,270912,0.05334640843343957,9888,0.9888,False,1.0,False,False
-Defense mechanisms,2,135950,0.02677047981088364,8287,0.8287,False,1.0,False,False
+"Cell cycle control, cell division, chromosome partitioning",7,115057,0.022656352303058767,201,0.0201,True,0.3015,False,False
+Carbohydrate transport and metabolism,6,679809,0.13386401698975356,9987,0.9987,False,1.0,False,False
+Amino acid transport and metabolism,15,660007,0.12996472282855373,5820,0.582,False,1.0,False,False
+Cell motility,3,144533,0.02846059403094112,6589,0.6589,False,1.0,False,False
+Inorganic ion transport and metabolism,10,305849,0.060225998379396475,1694,0.1694,False,1.0,False,False
+Nucleotide transport and metabolism,3,160339,0.03157301921586813,7245,0.7245,False,1.0,False,False
+Signal transduction mechanisms,4,339255,0.06680411274910872,9572,0.9572,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",8,393020,0.07739120246615291,7109,0.7109,False,1.0,False,False
+"Replication, recombination and repair",2,309957,0.06103492174139067,9955,0.9955,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,4,520583,0.10251016323199146,9994,0.9994,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",2,270912,0.05334640843343957,9876,0.9876,False,1.0,False,False
+Defense mechanisms,2,135950,0.02677047981088364,8266,0.8266,False,1.0,False,False
 Energy production and conversion,2,589566,0.11609389260892553,10000,1.0,False,1.0,False,False

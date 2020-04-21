@@ -1,9 +1,9 @@
 ,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
-Signal transduction mechanisms,1,339255,0.12104905973830239,9151,0.9151,False,1.0,False,False
-Nucleotide transport and metabolism,5,160339,0.05721031433399557,41,0.0041,True,0.0328,True,True
-"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.01858722397296248,3013,0.3013,False,1.0,False,False
-Energy production and conversion,3,589566,0.21036214633143796,7916,0.7916,False,1.0,False,False
-Transcription,4,424603,0.1515019496015163,3211,0.3211,False,1.0,False,False
-"Posttranslational modification, protein turnover, chaperones",2,270912,0.09666369802014113,5630,0.563,False,1.0,False,False
-Inorganic ion transport and metabolism,2,305849,0.10912951576808019,6250,0.625,False,1.0,False,False
-Amino acid transport and metabolism,1,660007,0.23549609223356396,9938,0.9938,False,1.0,False,False
+Signal transduction mechanisms,1,339255,0.12104905973830239,9143,0.9143,False,1.0,False,False
+Nucleotide transport and metabolism,5,160339,0.05721031433399557,30,0.003,True,0.024,True,True
+"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.01858722397296248,2990,0.299,False,1.0,False,False
+Energy production and conversion,3,589566,0.21036214633143796,7957,0.7957,False,1.0,False,False
+Transcription,4,424603,0.1515019496015163,3213,0.3213,False,1.0,False,False
+Inorganic ion transport and metabolism,2,305849,0.10912951576808019,6360,0.636,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",2,270912,0.09666369802014113,5648,0.5648,False,1.0,False,False
+Amino acid transport and metabolism,1,660007,0.23549609223356396,9933,0.9933,False,1.0,False,False
