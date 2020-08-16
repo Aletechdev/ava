@@ -1,0 +1,29 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Purine metabolism,49,154034,0.2184166867546758,0,0.0,True,0.0,True,True
+Ascorbate and aldarate metabolism,5,6020,0.008536222225373282,17,0.0017,True,0.047599999999999996,True,True
+Amino sugar and nucleotide sugar metabolism,5,52989,0.07513718928576493,8703,0.8703,False,1.0,False,False
+Pyrimidine metabolism,10,89371,0.12672603264183316,8214,0.8214,False,1.0,False,False
+Fatty acid elongation in mitochondria,2,6963,0.00987337464373325,2574,0.2574,False,1.0,False,False
+Fatty acid metabolism,2,22395,0.03175559746465692,8251,0.8251,False,1.0,False,False
+Primary bile acid biosynthesis,1,0,0.0,0,0.0,True,0.0,True,False
+"Valine, leucine and isoleucine degradation",2,9859,0.013979836365441062,4042,0.4042,False,1.0,False,False
+Geraniol degradation,2,8961,0.012706492917204316,3569,0.3569,False,1.0,False,False
+Lysine degradation,1,21091,0.029906555308197327,9527,0.9527,False,1.0,False,False
+Tryptophan metabolism,1,13186,0.018697446223217958,8387,0.8387,False,1.0,False,False
+"2,4-Dichlorobenzoate degradation",1,6889,0.009768444337308396,6261,0.6261,False,1.0,False,False
+Butanoate metabolism,1,68327,0.09688612225798676,10000,1.0,False,1.0,False,False
+Reductive carboxylate cycle (CO2 fixation),1,0,0.0,0,0.0,True,0.0,True,False
+Caprolactam degradation,1,0,0.0,0,0.0,True,0.0,True,False
+Phenylalanine metabolism,1,29184,0.041382244090580375,9836,0.9836,False,1.0,False,False
+Benzoate degradation via hydroxylation,2,22288,0.031603873913475036,8227,0.8227,False,1.0,False,False
+beta-Alanine metabolism,1,15690,0.02224806091629681,8882,0.8882,False,1.0,False,False
+alpha-Linolenic acid metabolism,2,11958,0.016956170327410914,5032,0.5032,False,1.0,False,False
+"1,4-Dichlorobenzene degradation",1,25578,0.0362690186180395,9736,0.9736,False,1.0,False,False
+Propanoate metabolism,1,56189,0.07967471605008296,9994,0.9994,False,1.0,False,False
+Limonene and pinene degradation,1,8681,0.01230945932532649,7047,0.7047,False,1.0,False,False
+Ethylbenzene degradation,1,8410,0.011925187527473307,6968,0.6968,False,1.0,False,False
+Galactose metabolism,1,41777,0.05923882988528565,9983,0.9983,False,1.0,False,False
+Glycosaminoglycan degradation,1,0,0.0,0,0.0,True,0.0,True,False
+Sphingolipid metabolism,1,10951,0.015528267373764587,7830,0.783,False,1.0,False,False
+Glycosphingolipid biosynthesis - ganglio series,1,7153,0.010142790295364633,6312,0.6312,False,1.0,False,False
+Drug metabolism - other enzymes,1,7286,0.0103313812515066,6378,0.6378,False,1.0,False,False

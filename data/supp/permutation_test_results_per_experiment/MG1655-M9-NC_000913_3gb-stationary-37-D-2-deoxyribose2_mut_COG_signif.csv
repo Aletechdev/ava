@@ -1,0 +1,19 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Amino acid transport and metabolism,86,660007,0.11741022126966778,0,0.0,True,0.0,True,True
+Transcription,35,424603,0.07553364158526311,5822,0.5822,False,1.0,False,False
+General function prediction only,37,254764,0.045320576314411276,14,0.0014,True,0.0252,True,True
+Cell motility,5,144533,0.025711320502311178,9925,0.9925,False,1.0,False,False
+Signal transduction mechanisms,17,339255,0.06035088206161623,9946,0.9946,False,1.0,False,False
+Energy production and conversion,88,589566,0.10487930357264841,0,0.0,True,0.0,True,True
+"Posttranslational modification, protein turnover, chaperones",22,270912,0.04819318259443951,6014,0.6014,False,1.0,False,False
+Inorganic ion transport and metabolism,14,305849,0.05440820895097571,9973,0.9973,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,15,520583,0.092607752977207,10000,1.0,False,1.0,False,False
+Lipid transport and metabolism,46,183775,0.032692173588815265,0,0.0,True,0.0,True,True
+"Secondary metabolites biosynthesis, transport and catabolism",47,52093,0.009266948163581302,0,0.0,True,0.0,True,True
+Coenzyme transport and metabolism,8,212728,0.03784269189607669,9975,0.9975,False,1.0,False,False
+"Mobilome: prophages, transposons",19,28915,0.0051437583965207095,0,0.0,True,0.0,True,True
+Defense mechanisms,14,135950,0.024184470136849056,2585,0.2585,False,1.0,False,False
+Carbohydrate transport and metabolism,6,679809,0.12093284633513218,10000,1.0,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",6,393020,0.069915266297789,10000,1.0,False,1.0,False,False
+"Cell cycle control, cell division, chromosome partitioning",2,115057,0.02046776447617096,9996,0.9996,False,1.0,False,False
+"Replication, recombination and repair",7,309957,0.055138990880524624,10000,1.0,False,1.0,False,False

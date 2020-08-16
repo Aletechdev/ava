@@ -1,0 +1,8 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+"Mobilome: prophages, transposons",17,28915,0.0235474524124025,0,0.0,True,0.0,True,True
+Transcription,4,424603,0.34578312075612444,9950,0.995,False,1.0,False,False
+Nucleotide transport and metabolism,3,160339,0.13057496013668354,7271,0.7271,False,1.0,False,False
+"Intracellular trafficking, secretion, and vesicular transport",1,60493,0.04926356696467109,7640,0.764,False,1.0,False,False
+General function prediction only,1,254764,0.20747166406340345,9987,0.9987,False,1.0,False,False
+"Cell cycle control, cell division, chromosome partitioning",1,115057,0.09369874571031625,9328,0.9328,False,1.0,False,False
+Lipid transport and metabolism,1,183775,0.14966048995639875,9885,0.9885,False,1.0,False,False

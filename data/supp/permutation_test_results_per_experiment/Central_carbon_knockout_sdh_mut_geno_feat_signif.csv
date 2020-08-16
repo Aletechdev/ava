@@ -1,0 +1,11 @@
+,length,observed mutation count,name,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+ECK125144791,113,4,rph-pyrE attenuator terminator,2.4344780694459647e-05,0,0.0,True,0.0,True,True
+ECK120000854,687,4,rph,0.00014800764900082988,0,0.0,True,0.0,True,True
+ECK120000885,4029,4,rpoB,0.0008680099240529019,0,0.0,True,0.0,True,True
+ECK120001377,2673,2,glnD,0.0005758725557193861,1,0.0001,True,0.001,True,True
+ECK120000395,1284,1,gltA,0.0002766256496609397,67,0.0067,True,0.067,False,False
+ECK120002988,261,1,b0725,5.622998018808821e-05,13,0.0013,True,0.013,True,False
+ECK120000969,1218,1,sucB,0.0002624065742110783,45,0.0045,True,0.045,True,False
+ECK120010206,81,2,cysDp,1.7450683506648064e-05,0,0.0,True,0.0,True,True
+ECK120000968,2802,4,sucA,0.0006036643850077515,0,0.0,True,0.0,True,True
+genome remainder,4628504,0,,0.9971673878179579,10000,1.0,False,1.0,False,False

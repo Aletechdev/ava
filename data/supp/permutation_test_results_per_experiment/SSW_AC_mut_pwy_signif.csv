@@ -1,0 +1,10 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Tryptophan metabolism,3,13186,0.04335831275463062,528,0.0528,False,0.4752,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.18020695982138454,9815,0.9815,False,1.0,False,False
+One carbon pool by folate,1,17276,0.056807084115652856,6909,0.6909,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.2774063929342983,9979,0.9979,False,1.0,False,False
+Pyrimidine metabolism,1,89371,0.2938704511750412,9989,0.9989,False,1.0,False,False
+Drug metabolism - other enzymes,1,7286,0.02395788462992861,3925,0.3925,False,1.0,False,False
+Citrate cycle (TCA cycle),4,0,0.0,0,0.0,True,0.0,True,True
+Glutathione metabolism,4,37830,0.12439291456906389,2297,0.2297,False,1.0,False,False
+Reductive carboxylate cycle (CO2 fixation),4,0,0.0,0,0.0,True,0.0,True,True

@@ -1,0 +1,8 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pyrimidine metabolism,8,89371,0.17368228759770368,155,0.0155,True,0.1085,False,False
+Drug metabolism - other enzymes,4,7286,0.014159505291838171,2,0.0002,True,0.0014,True,True
+Purine metabolism,4,154034,0.2993474112164426,9103,0.9103,False,1.0,False,False
+Glyoxylate and dicarboxylate metabolism,1,64311,0.1249810519933303,9391,0.9391,False,1.0,False,False
+Methane metabolism,1,93361,0.1814363949425341,9826,0.9826,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.1639517574033263,9747,0.9747,False,1.0,False,False
+Nicotinate and nicotinamide metabolism,2,21839,0.04244159155482484,2248,0.2248,False,1.0,False,False

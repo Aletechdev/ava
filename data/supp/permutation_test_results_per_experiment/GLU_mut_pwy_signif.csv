@@ -1,0 +1,39 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Benzoate degradation via hydroxylation,1,22288,0.014037262230015102,7210,0.721,False,1.0,False,False
+Pentose phosphate pathway,3,51305,0.03231253314388571,5558,0.5558,False,1.0,False,False
+D-Glutamine and D-glutamate metabolism,1,0,0.0,0,0.0,True,0.0,True,False
+Peptidoglycan biosynthesis,1,27943,0.017598852229599428,7967,0.7967,False,1.0,False,False
+Histidine metabolism,7,20207,0.01272662230267028,1,0.0001,True,0.0038,True,True
+Tyrosine metabolism,1,26682,0.01680465859750821,7799,0.7799,False,1.0,False,False
+Phenylalanine metabolism,3,29184,0.018380449610586897,2293,0.2293,False,1.0,False,False
+"Phenylalanine, tyrosine and tryptophan biosynthesis",2,25467,0.01603943634295561,4186,0.4186,False,1.0,False,False
+Novobiocin biosynthesis,1,2484,0.0015644543870853157,1304,0.1304,False,1.0,False,False
+"Tropane, piperidine and pyridine alkaloid biosynthesis",1,13663,0.008605128941524423,5427,0.5427,False,1.0,False,False
+Purine metabolism,11,154034,0.09701254712572444,2550,0.255,False,1.0,False,False
+Pyrimidine metabolism,14,89371,0.05628697786964643,3,0.0003,True,0.011399999999999999,True,True
+Glutathione metabolism,3,37830,0.02382580896273651,3624,0.3624,False,1.0,False,False
+Cysteine and methionine metabolism,2,36129,0.02275449780636287,6085,0.6085,False,1.0,False,False
+Arginine and proline metabolism,4,71864,0.04526084946598193,5952,0.5952,False,1.0,False,False
+beta-Alanine metabolism,1,15690,0.009881758990889132,5935,0.5935,False,1.0,False,False
+Starch and sucrose metabolism,2,63933,0.04026580609079126,8857,0.8857,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,3,52989,0.03337313748682117,5752,0.5752,False,1.0,False,False
+Drug metabolism - other enzymes,6,7286,0.004588814277094851,0,0.0,True,0.0,True,True
+Oxidative phosphorylation,2,62255,0.03920898062318693,8745,0.8745,False,1.0,False,False
+Photosynthesis,1,20869,0.01314355821420429,7020,0.702,False,1.0,False,False
+Methane metabolism,2,93361,0.058799929964843865,9737,0.9737,False,1.0,False,False
+"Alanine, aspartate and glutamate metabolism",1,67045,0.04222578276253421,9793,0.9793,False,1.0,False,False
+Cyanoamino acid metabolism,1,9402,0.005921497643871231,4099,0.4099,False,1.0,False,False
+Nitrogen metabolism,1,84364,0.0531335064058235,9929,0.9929,False,1.0,False,False
+Tryptophan metabolism,1,13186,0.00830470835270007,5352,0.5352,False,1.0,False,False
+Phenylpropanoid biosynthesis,1,8387,0.005282237900356096,3837,0.3837,False,1.0,False,False
+Aminoacyl-tRNA biosynthesis,1,50763,0.031971174738974185,9485,0.9485,False,1.0,False,False
+Glycolysis / Gluconeogenesis,2,87006,0.054797471176628414,9630,0.963,False,1.0,False,False
+Galactose metabolism,1,41777,0.02631167911806088,9127,0.9127,False,1.0,False,False
+Streptomycin biosynthesis,1,10325,0.006502814632309132,4444,0.4444,False,1.0,False,False
+Citrate cycle (TCA cycle),1,0,0.0,0,0.0,True,0.0,True,False
+Lipopolysaccharide biosynthesis,2,39414,0.02482343205015323,6514,0.6514,False,1.0,False,False
+Pentose and glucuronate interconversions,1,32217,0.020290671090470055,8343,0.8343,False,1.0,False,False
+Pyruvate metabolism,1,95946,0.0604279954200031,9965,0.9965,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,1,50115,0.0315630562032128,9444,0.9444,False,1.0,False,False
+"Glycine, serine and threonine metabolism",1,54804,0.03451624727448617,9586,0.9586,False,1.0,False,False
+Lysine biosynthesis,1,18189,0.011455660566302256,6457,0.6457,False,1.0,False,False

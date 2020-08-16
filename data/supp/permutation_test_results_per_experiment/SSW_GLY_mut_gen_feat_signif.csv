@@ -1,0 +1,7 @@
+,length,observed mutation count,name,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+ECK120000850/ECK120003159,134,1,rne/yceQ,2.8869031973960996e-05,3,0.0003,True,0.0018,True,False
+ECK120000391,1509,2,glpK,0.00032509977051273985,0,0.0,True,0.0,True,True
+ECK120000886,4224,2,rpoC,0.0009100208287911287,0,0.0,True,0.0,True,True
+ECK120001091,633,1,fimZ,0.00013637385999639784,9,0.0009,True,0.0054,True,False
+ECK120002259,3318,1,dgcE,0.0007148317021612133,50,0.005,True,0.03,True,False
+genome remainder,4631834,0,,0.9978848048065646,10000,1.0,False,1.0,False,False

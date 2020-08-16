@@ -1,0 +1,14 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pyrimidine metabolism,11,89371,0.1294084087736674,826,0.0826,False,1.0,False,False
+Drug metabolism - other enzymes,5,7286,0.010550062842811883,4,0.0004,True,0.005200000000000001,True,True
+Purine metabolism,7,154034,0.22303985450585856,9721,0.9721,False,1.0,False,False
+Citrate cycle (TCA cycle),4,0,0.0,0,0.0,True,0.0,True,True
+Glutathione metabolism,4,37830,0.054777501694149536,3496,0.3496,False,1.0,False,False
+Reductive carboxylate cycle (CO2 fixation),4,0,0.0,0,0.0,True,0.0,True,True
+Glycolysis / Gluconeogenesis,3,87006,0.1259839099233723,9753,0.9753,False,1.0,False,False
+Galactose metabolism,4,41777,0.060492722396946474,4162,0.4162,False,1.0,False,False
+Starch and sucrose metabolism,2,63933,0.09257441226042988,9654,0.9654,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,4,52989,0.07672759813035394,5829,0.5829,False,1.0,False,False
+Streptomycin biosynthesis,2,10325,0.014950507665664657,1941,0.1941,False,1.0,False,False
+Pyruvate metabolism,3,95946,0.13892894997480496,9834,0.9834,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,1,50115,0.07256607183194036,9811,0.9811,False,1.0,False,False

@@ -1,0 +1,12 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Pyrimidine metabolism,10,89371,0.1505320017988853,1416,0.1416,False,1.0,False,False
+Drug metabolism - other enzymes,5,7286,0.012272170671769124,3,0.0003,True,0.0032999999999999995,True,True
+Purine metabolism,6,154034,0.2594470954234539,9895,0.9895,False,1.0,False,False
+Lipopolysaccharide biosynthesis,1,39414,0.06638695235480487,9597,0.9597,False,1.0,False,False
+Terpenoid backbone biosynthesis,1,15349,0.025853080927941842,7024,0.7024,False,1.0,False,False
+Glycolysis / Gluconeogenesis,4,87006,0.14654851516167228,9205,0.9205,False,1.0,False,False
+Galactose metabolism,4,41777,0.07036707029295891,4110,0.411,False,1.0,False,False
+Starch and sucrose metabolism,4,63933,0.10768551846805041,7541,0.7541,False,1.0,False,False
+Amino sugar and nucleotide sugar metabolism,4,52989,0.08925199721745458,5944,0.5944,False,1.0,False,False
+Streptomycin biosynthesis,4,10325,0.0173909088918496,88,0.0088,True,0.09680000000000001,False,False
+Pentose and glucuronate interconversions,3,32217,0.054264688791159185,4586,0.4586,False,1.0,False,False

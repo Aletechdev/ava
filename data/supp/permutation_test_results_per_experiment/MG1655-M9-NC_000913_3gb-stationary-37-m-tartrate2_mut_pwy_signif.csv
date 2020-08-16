@@ -1,0 +1,20 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Butanoate metabolism,1,68327,0.0677064702006114,9999,0.9999,False,1.0,False,False
+Pentose phosphate pathway,29,51305,0.05083906001496286,0,0.0,True,0.0,True,True
+Pentose and glucuronate interconversions,17,32217,0.03192441275708135,0,0.0,True,0.0,True,True
+Arginine and proline metabolism,16,71864,0.07121134799562014,195,0.0195,True,0.3705,False,False
+Glyoxylate and dicarboxylate metabolism,16,64311,0.06372694257133373,65,0.0065,True,0.1235,False,False
+Glutathione metabolism,9,37830,0.0374864368066669,509,0.0509,False,0.9671000000000001,False,False
+T cell receptor signaling pathway,3,1730,0.0017142885454806698,15,0.0015,True,0.0285,True,True
+Glycolysis / Gluconeogenesis,3,87006,0.08621583190063072,9991,0.9991,False,1.0,False,False
+Purine metabolism,5,154034,0.15263509931478003,10000,1.0,False,1.0,False,False
+Pyruvate metabolism,4,95946,0.09507464091600482,9990,0.999,False,1.0,False,False
+Carbon fixation in photosynthetic organisms,3,50115,0.04965986731604841,9535,0.9535,False,1.0,False,False
+Pyrimidine metabolism,3,89371,0.08855935352494389,9994,0.9994,False,1.0,False,False
+Glycerophospholipid metabolism,3,35850,0.03552441870259076,8226,0.8226,False,1.0,False,False
+Citrate cycle (TCA cycle),4,0,0.0,0,0.0,True,0.0,True,True
+Reductive carboxylate cycle (CO2 fixation),5,0,0.0,0,0.0,True,0.0,True,True
+Taurine and hypotaurine metabolism,1,12423,0.01231017722572622,7957,0.7957,False,1.0,False,False
+Propanoate metabolism,1,56189,0.055678704671684016,9989,0.9989,False,1.0,False,False
+Methane metabolism,1,93361,0.09251311728012764,10000,1.0,False,1.0,False,False
+Drug metabolism - other enzymes,2,7286,0.007219830255706451,2324,0.2324,False,1.0,False,False

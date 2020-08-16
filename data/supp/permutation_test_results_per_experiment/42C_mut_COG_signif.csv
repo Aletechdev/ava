@@ -1,0 +1,20 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Lipid transport and metabolism,2,183775,0.03218240766262645,9786,0.9786,False,1.0,False,False
+Nucleotide transport and metabolism,11,160339,0.028078329817537,139,0.0139,True,0.2641,False,False
+Transcription,24,424603,0.07435585275893988,39,0.0039,True,0.0741,False,False
+Signal transduction mechanisms,13,339255,0.059409836547867426,2758,0.2758,False,1.0,False,False
+Carbohydrate transport and metabolism,22,679809,0.11904715206487511,5006,0.5006,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",3,270912,0.04744171092203758,9927,0.9927,False,1.0,False,False
+"Translation, ribosomal structure and biogenesis",13,393020,0.06882508425828021,4750,0.475,False,1.0,False,False
+"Replication, recombination and repair",11,309957,0.054279213885918685,3983,0.3983,False,1.0,False,False
+Coenzyme transport and metabolism,4,212728,0.037252614432078356,9085,0.9085,False,1.0,False,False
+Amino acid transport and metabolism,9,660007,0.11557945495408567,9997,0.9997,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,27,520583,0.09116372917008878,81,0.0081,True,0.15389999999999998,False,False
+Inorganic ion transport and metabolism,9,305849,0.05355982696888389,6391,0.6391,False,1.0,False,False
+General function prediction only,6,254764,0.04461389691612768,8178,0.8178,False,1.0,False,False
+"Intracellular trafficking, secretion, and vesicular transport",4,60493,0.010593445173365593,1285,0.1285,False,1.0,False,False
+Energy production and conversion,10,589566,0.10324393065446347,9901,0.9901,False,1.0,False,False
+Cell motility,1,144533,0.02531040634853701,9896,0.9896,False,1.0,False,False
+Defense mechanisms,8,135950,0.0238073640143331,712,0.0712,False,1.0,False,False
+Extracellular structures,2,12182,0.002133293919989745,566,0.0566,False,1.0,False,False
+"Secondary metabolites biosynthesis, transport and catabolism",2,52093,0.009122449529964357,4871,0.4871,False,1.0,False,False

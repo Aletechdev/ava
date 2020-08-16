@@ -1,0 +1,9 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Signal transduction mechanisms,1,339255,0.12104905973830239,9127,0.9127,False,1.0,False,False
+Nucleotide transport and metabolism,5,160339,0.05721031433399557,35,0.0035,True,0.028,True,True
+"Secondary metabolites biosynthesis, transport and catabolism",1,52093,0.01858722397296248,3021,0.3021,False,1.0,False,False
+Energy production and conversion,3,589566,0.21036214633143796,7977,0.7977,False,1.0,False,False
+Transcription,4,424603,0.1515019496015163,3197,0.3197,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",2,270912,0.09666369802014113,5584,0.5584,False,1.0,False,False
+Inorganic ion transport and metabolism,2,305849,0.10912951576808019,6158,0.6158,False,1.0,False,False
+Amino acid transport and metabolism,1,660007,0.23549609223356396,9950,0.995,False,1.0,False,False

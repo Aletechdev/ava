@@ -1,0 +1,17 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+"Translation, ribosomal structure and biogenesis",8,393020,0.0723688450483263,9161,0.9161,False,1.0,False,False
+Transcription,21,424603,0.07818438937981399,200,0.02,True,0.32,False,False
+"Mobilome: prophages, transposons",28,28915,0.005324271422758015,0,0.0,True,0.0,True,True
+Nucleotide transport and metabolism,11,160339,0.02952406555952265,93,0.0093,True,0.1488,False,False
+Inorganic ion transport and metabolism,11,305849,0.05631758915369587,3153,0.3153,False,1.0,False,False
+Amino acid transport and metabolism,14,660007,0.12153056921736985,9459,0.9459,False,1.0,False,False
+Signal transduction mechanisms,4,339255,0.06246881208811241,9923,0.9923,False,1.0,False,False
+Carbohydrate transport and metabolism,13,679809,0.12517681589602986,9768,0.9768,False,1.0,False,False
+Defense mechanisms,3,135950,0.025033190382982955,7855,0.7855,False,1.0,False,False
+Coenzyme transport and metabolism,6,212728,0.03917072838389995,6240,0.624,False,1.0,False,False
+"Replication, recombination and repair",7,309957,0.057074016855742905,8349,0.8349,False,1.0,False,False
+Energy production and conversion,20,589566,0.10855989644232239,3270,0.327,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",3,270912,0.049884455116106494,9914,0.9914,False,1.0,False,False
+General function prediction only,6,254764,0.046911038725489296,7820,0.782,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,7,520583,0.09585769289550876,9964,0.9964,False,1.0,False,False
+Cell motility,2,144533,0.02661362343231832,9351,0.9351,False,1.0,False,False

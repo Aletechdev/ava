@@ -1,0 +1,14 @@
+,observed mutation count,length,proportion,equal or larger count,p value,significant,corrected p value,corrected significance,final significance
+Transcription,10,424603,0.0908755084958155,67,0.0067,True,0.0871,False,False
+Nucleotide transport and metabolism,5,160339,0.03431649836838308,174,0.0174,True,0.22619999999999998,False,False
+"Replication, recombination and repair",2,309957,0.06633843846331157,8041,0.8041,False,1.0,False,False
+Cell motility,7,144533,0.030933624749296874,5,0.0005,True,0.006500000000000001,True,True
+Extracellular structures,1,12182,0.0026072482872142315,1059,0.1059,False,1.0,False,False
+Amino acid transport and metabolism,2,660007,0.14125776722208203,9920,0.992,False,1.0,False,False
+Inorganic ion transport and metabolism,2,305849,0.06545922520080327,7979,0.7979,False,1.0,False,False
+"Posttranslational modification, protein turnover, chaperones",1,270912,0.057981846001131335,9259,0.9259,False,1.0,False,False
+Cell wall/membrane/envelope biogenesis,3,520583,0.11141759441001858,8848,0.8848,False,1.0,False,False
+Carbohydrate transport and metabolism,4,679809,0.14549588334286814,8945,0.8945,False,1.0,False,False
+Signal transduction mechanisms,2,339255,0.07260893266121032,8381,0.8381,False,1.0,False,False
+General function prediction only,4,254764,0.054525775951719466,2187,0.2187,False,1.0,False,False
+Energy production and conversion,1,589566,0.1261816568461456,9974,0.9974,False,1.0,False,False
