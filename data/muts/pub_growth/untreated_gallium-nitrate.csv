@@ -1,4 +1,4 @@
-Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,untreated A1 F10 I0 R1,untreated A2 F10 I0 R1,untreated A3 F10 I0 R1,untreated A4 F10 I0 R1
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,gallium-nitrate A1 F10 I0 R1,gallium-nitrate A2 F10 I0 R1,gallium-nitrate A3 F10 I0 R1,gallium-nitrate A4 F10 I0 R1
 NC_000913,"819,360",SNP,G→T,moaE,,molybdopterin synthase catalytic subunit,,,1608257,L22L (CTG→CTT),0.24,,,
 NC_000913,"3,651,029",MOB,IS2 (+) +5 bp,"arsC, yhiS",,arsenate reductase/putative uncharacterized protein YhiS,,,1608197,intergenic (+367/‑258),,,,0.91
 NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00
