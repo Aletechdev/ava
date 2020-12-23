@@ -1,0 +1,48 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,BOP_27_rpe A0 F0 I1 R1,BOP_27_rpe A1 F13 I1 R2,BOP_27_rpe A1 F16 I1 R1,BOP_27_rpe A1 F31 I1 R1,BOP_27_rpe A1 F66 I0 R1,BOP_27_rpe A1 F66 I1 R1,BOP_27_rpe A2 F8 I1 R1,BOP_27_rpe A2 F32 I1 R1,BOP_27_rpe A3 F17 I1 R1,BOP_27_rpe A3 F32 I1 R1,BOP_27_rpe A4 F8 I1 R1,BOP_27_rpe A4 F17 I1 R1,BOP_27_rpe A4 F17 I1 R2,BOP_27_rpe A4 F38 I1 R1,BOP_27_rpe A4 F68 I0 R1,BOP_27_rpe A4 F68 I1 R1,BOP_27_rpe A5 F22 I1 R2,BOP_27_rpe A5 F43 I1 R1
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103621,intergenic (+266/+376),,,,,0.38,,,,,,,,,,0.29,,,
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,,,,1.00,,,,,,,,,,1.00,,,
+NC_000913,"2,560,996",SNP,G→T,"yffL, yffM",,CPZ-55 prophage; uncharacterized protein/CPZ-55 prophage; uncharacterized protein,,,1111823,intergenic (+98/‑372),,,,,,,,,,,,,,,0.23,,,
+NC_000913,"1,757,082",MOB,IS5 (+) +4 bp,pykF,,pyruvate kinase I,,,1112482,coding (1385‑1388/1413 nt),,,,,0.65,1.00,,,,,,,,,,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,757,082",MOB,IS5 (–) +4 bp,pykF,,pyruvate kinase I,,,1603370,coding (1385‑1388/1413 nt),,,,,0.26,,,,,,,,,,,,,
+NC_000913,"759,249",SNP,C→T,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,1566767,R182C (CGC→TGC),,,,,,,,,,,,,,1.00,,,1.00,
+NC_000913,"3,440,924",SNP,C→A,rpoA,,"RNA polymerase, alpha subunit",,,1566768,G36C (GGC→TGC),,,,,,,,,,,,,,1.00,,,1.00,
+NC_000913,"2,019,460",SNP,G→A,fliK,,flagellar hook-length control protein,,,669363,V359I (GTC→ATC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,935,005",SNP,A→C,zwf,,glucose-6-phosphate 1-dehydrogenase,,,1566775,V437G (GTA→GGA),,,,,,,,,,,,,1.00,,,,,1.00
+NC_000913,"4,186,577",SNP,G→C,rpoC,,"RNA polymerase, beta prime subunit",,,1566776,D410H (GAT→CAT),,,,,,,,,,,,,1.00,,,,,1.00
+NC_000913,"3,002,530",SNP,G→A,xdhA,,"xanthine dehydrogenase, molybdenum binding subunit",,,1102522,G729D (GGT→GAT),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00,1.00,1.00
+NC_000913,"2,867,796",MOB,IS1 (+) +9 bp,nlpD,,"activator of AmiC murein hydrolase activity, lipoprotein",,,1566782,coding (950‑958/1140 nt),,1.00,,1.00,0.23,,,,,,,,,,,,,
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),,,,,,,,1.00,1.00,,,,,,,,1.00,
+NC_000913,"1,708,751",SNP,A→G,rsxC,,SoxR iron-sulfur cluster reduction factor component; putative membrane-associated NADH oxidoreductase of electron transport complex,,,832327,E611E (GAA→GAG),,,,,,,,,,,,,,,0.24,,,
+NC_000913,"1,708,930",SNP,C→A,rsxC,,SoxR iron-sulfur cluster reduction factor component; putative membrane-associated NADH oxidoreductase of electron transport complex,,,821887,P671Q (CCG→CAG),,,,,0.24,,,,,,,,,,,,,
+NC_000913,"4,186,605",SNP,A→C,rpoC,,"RNA polymerase, beta prime subunit",,,568656,H419P (CAC→CCC),,,,,,1.00,,,,,,,,,,,,
+NC_000913,"3,890,075",MOB,IS5 (–) +4 bp,tnaA,,"tryptophanase/L-cysteine desulfhydrase, PLP-dependent",,,673237,coding (1346‑1349/1416 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,543,608",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,fimA,,major type 1 subunit fimbrin (pilin),,,673239,coding (494‑499/549 nt),,,,,,,,1.00,,,,,,,,,,
+NC_000913,"2,317,667",SNP,T→G,rcsC,,hybrid sensory kinase in two-component regulatory system with RcsB and YojN,,,1120732,E737A (GAA→GCA),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,632,046",SNP,G→T,guaA,,GMP synthetase (glutamine aminotransferase),,,1120733,P164T (CCG→ACG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,315,699",SNP,G→T,rcsD,,phosphotransfer intermediate protein in two-component regulatory system with RcsBC,,,1566779,D738Y (GAT→TAT),,,,,,,,,,,,,,,,,,1.00
+NC_000913,"1,261,481",SNP,G→C,prs,,phosphoribosylpyrophosphate synthase,,,1567845,A132G (GCT→GGT),,,,,,,,,1.00,1.00,,,,,,,,
+NC_000913,"1,261,471",SNP,A→C,prs,,phosphoribosylpyrophosphate synthase,,,1567849,I135M (ATT→ATG),,,,1.00,,,,,,,,,,,,,,
+NC_000913,"3,367,990",MOB,IS2 (–) +5 bp,yhcG,,DUF1016 family protein in the PD-(D/E)XK nuclease superfamily,,,1567850,coding (164‑168/1128 nt),,,,1.00,,,,,,,,,,,,,,
+NC_000913,"2,099,835",MOB,IS1 (+) +8 bp,"ugd, gnd",,"UDP-glucose 6-dehydrogenase/6-phosphogluconate dehydrogenase, decarboxylating",,,1567851,intergenic (‑222/+20),,,,,,,,,,,,,,,0.66,1.00,,
+NC_000913,"2,868,098",MOB,IS5 (+) +4 bp,nlpD,,"activator of AmiC murein hydrolase activity, lipoprotein",,,1567852,coding (653‑656/1140 nt),,,,,,,,,,,,,,,0.94,1.00,,
+NC_000913,"4,186,607",SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,1567853,P420S (CCG→TCG),,,,,,,,,,,,,,,0.68,1.00,,
+NC_000913,"4,309,624",DEL,"Δ3,364 bp","[alsA],alsB,[alsR]",,"[alsA],alsB,[alsR]",,,1567854,,,,,,,,,,,,,,,,1.00,1.00,,
+NC_000913,"29,279",INS,(T)5→6,"dapB, carA",,"dihydrodipicolinate reductase/carbamoyl phosphate synthetase small subunit, glutamine amidotransferase",,,1567855,intergenic (+84/‑372),,,,,,,,1.00,,,,,,,,,,
+NC_000913,"1,261,474",SNP,C→A,prs,,phosphoribosylpyrophosphate synthase,,,1567856,Q134H (CAG→CAT),,,,,,,,1.00,,,,,,,,,,
+NC_000913,"3,366,751",DEL,"Δ1,271 bp","[yhcE],yhcF,[yhcG]",,"[yhcE],yhcF,[yhcG]",,,1567857,IS5‑mediated,,,,,,,1.00,1.00,,,,,,,,,,
+NC_000913,"4,044,390",DEL,(T)6→5,yihF,,DUF945 family protein,,,1567858,coding (192/1431 nt),,,,,,,1.00,1.00,,,,,,,,,,
+NC_000913,"4,620,245",SNP,C→A,deoB,,phosphopentomutase,,,1567859,P215T (CCG→ACG),,,,,,,,1.00,,,,,,,,,,
+NC_000913,"3,908,439",DEL,Δ1 bp,"pstB, pstA",,phosphate ABC transporter ATPase/phosphate ABC transporter permease,,,1567860,intergenic (‑73/+110),,,,,,,,,1.00,,,,,,,,,
+NC_000913,"4,620,663",SNP,G→A,deoB,,phosphopentomutase,,,1567861,W354* (TGG→TAG),,,,,,,,,1.00,,,,,,,,,
+NC_000913,"3,877,011",SNP,G→A,"yidA, yidB",,sugar phosphate phosphatase/DUF937 family protein,,,1567862,intergenic (‑59/+56),,,,,,,,,,,1.00,1.00,,,,,,
+NC_000913,"1,261,297",SNP,G→T,prs,,phosphoribosylpyrophosphate synthase,,,1567863,D193E (GAC→GAA),,,1.00,,1.00,1.00,,,,,,,,,,,,
+NC_000913,"1,351,197",MOB,IS186 (–) +6 bp :: Δ1 bp,"fabI, ycjD",,"enoyl-[acyl-carrier-protein] reductase, NADH-dependent/DUF559 family endonuclease-related protein",,,1567864,intergenic (‑158/+205),,,1.00,,0.75,1.00,,,,,,,,,,,,
+NC_000913,"2,100,692",SNP,C→T,gnd,,"6-phosphogluconate dehydrogenase, decarboxylating",,,1567865,D193N (GAT→AAT),,,,,,,1.00,,,,,,,,,,,
+NC_000913,"2,278,188",INS,(AGACCAGC)1→2,yejG,,uncharacterized protein,,,1567866,coding (50/345 nt),,,,,,1.00,,,,,,,,,,,,
+NC_000913,"3,897,463",MOB,IS2 (+) +5 bp,"yieH, cbrB",,"phosphoenolpyruvate and 6-phosphogluconate phosphatase/PRK09823 family inner membrane protein, creBC regulon",,,1567867,intergenic (+24/‑39),,,,,,1.00,,,,,,,,,,,,
+NC_000913,"4,628,195",SNP,A→G,nadR,,"trifunctional protein: nicotinamide mononucleotide adenylyltransferase, ribosylnicotinamide kinase, transcriptional repressor",,,1567868,Y294C (TAC→TGC),,,,,0.49,1.00,,,,,,,,,,,,
+NC_000913,"1,644,332",SNP,T→A,"ydfU, rem",,Qin prophage; uncharacterized protein/Qin prophage; uncharacterized protein,,,1567870,intergenic (‑28/+319),,,,,,,,,,1.00,,,,,,,,
+NC_000913,"4,619,685",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,deoB,,phosphopentomutase,,,1567871,coding (83‑88/1224 nt),,,,,,,,,,1.00,,,,,,,,
