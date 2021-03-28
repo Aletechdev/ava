@@ -1,0 +1,40 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,BOP1000_sucB A0 F0 I1 R1,BOP1000_sucB A1 F10 I1 R1,BOP1000_sucB A1 F40 I1 R1,BOP1000_sucB A1 F70 I1 R1,BOP1000_sucB A2 F7 I1 R1,BOP1000_sucB A2 F35 I1 R1,BOP1000_sucB A2 F75 I0 R1,BOP1000_sucB A2 F75 I1 R1,BOP1000_sucB A3 F8 I1 R1,BOP1000_sucB A3 F37 I1 R1,BOP1000_sucB A3 F76 I0 R1,BOP1000_sucB A3 F76 I1 R1,BOP1000_sucB A4 F12 I1 R1,BOP1000_sucB A4 F42 I1 R1,BOP1000_sucB A4 F81 I0 R1,BOP1000_sucB A4 F81 I1 R1
+NC_000913,"4,182,820",SNP,C→T,rpoB,,"RNA polymerase, beta subunit",,,1193564,H526Y (CAC→TAC),,,,,,,0.27,,,,,,,,,
+NC_000913,"755,695",SNP,G→T,sdhD,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1566752,E46* (GAA→TAA),,,,,,1.00,,,,,,,,,,
+NC_000913,"757,611",SNP,C→T,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1602307,R569* (CGA→TGA),,,,,,,0.35,,,,,,,,,
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),,1.00,,1.00,1.00,1.00,,,,1.00,,1.00,1.00,,,1.00
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,,,,,,1.00,,,,1.00,,,,1.00,
+NC_000913,"3,683,497",SNP,G→A,"dctA, yhjK",,"C4-dicarboxylic acid, orotate and citrate transporter/cyclic-di-GMP phosphodiesterase",,,1602423,intergenic (‑50/+133),,,,,,,,,,,0.44,,,,,
+NC_000913,"564,107",MOB,IS2 (+) +5 bp,sfmZ,,response regulator family protein,,,673292,coding (370‑374/633 nt),,,,,,,1.00,,,,,,,,,
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913,"4,504,598",MOB,IS5 (–) +4 bp,yjhB,,"putative MFS transporter, membrane protein",,,1602428,coding (541‑544/1218 nt),,,,,,,,,,,0.39,,,,,
+NC_000913,"756,396",DEL,Δ1 bp,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1566755,coding (490/1767 nt),,,,,,,,1.00,,,,,,,,
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103621,intergenic (+266/+376),,,,,,,0.47,,,,0.37,,,,0.35,
+NC_000913,"755,486",SNP,G→T,sdhC,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1602393,E104* (GAA→TAA),,,,,,,,,,,0.23,,,,,
+NC_000913,"756,061",INS,+C,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1602394,coding (155/1767 nt),,,,,,,,,,,0.39,,,,,
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,673244,intergenic (‑271/‑264),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,770909,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,1112479,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,1112480,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"755,709",DEL,Δ75 bp,sdhD,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1566753,coding (150‑224/348 nt),,,,,,,,,,,,,,1.00,,
+NC_000913,"446,437",SNP,C→A,yajR,,putative transporter,,,1566754,R77L (CGC→CTC),,,,,,,,1.00,,,,,,,,
+NC_000913,"4,543,608",MOB,Δ1 bp :: IS186 (–) +6 bp :: Δ1 bp,fimA,,major type 1 subunit fimbrin (pilin),,,1196731,coding (494‑499/549 nt),,,,,,,1.00,,,,,,,,,
+NC_000913,"1,198,505",INS,(AATGATGA)6→7,"ymfE, lit",,"e14 prophage; putative inner membrane protein/T4 phage exclusion protein; cell death peptidase, e14 prophage",,,1566756,intergenic (‑268/‑190),,,,,,,,1.00,,,,,,,,
+NC_000913,"3,683,473",SNP,G→A,"dctA, yhjK",,"C4-dicarboxylic acid, orotate and citrate transporter/cyclic-di-GMP phosphodiesterase",,,1566757,intergenic (‑26/+157),,,,,,,,1.00,,,,,,,,
+NC_000913,"755,790",SNP,G→A,sdhD,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1566758,W77* (TGG→TGA),,,,1.00,,,,,1.00,1.00,,,,,0.75,
+NC_000913,"755,767",DEL,Δ1 bp,sdhD,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1566759,coding (208/348 nt),,,,,,,,,,,,1.00,,,,1.00
+NC_000913,"1,362,096",DEL,Δ1 bp,puuR,,"repressor for the divergent puu operons, putrescine inducible",,,1566760,coding (186/558 nt),,,,,,,,,,,,1.00,,,,
+NC_000913,"2,862,760",SNP,C→T,ygbK,,FliA-regulated DUF1537 family protein,,,1566761,R142R (CGC→CGT),,1.00,1.00,,,,,,,,,1.00,,,,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,1102506,,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,683,585",SNP,G→A,"dctA, yhjK",,"C4-dicarboxylic acid, orotate and citrate transporter/cyclic-di-GMP phosphodiesterase",,,1566763,intergenic (‑138/+45),,,,1.00,,,,,,,,,,,0.40,
+NC_000913,"757,084",SNP,C→T,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1566764,S393L (TCG→TTG),,,,,1.00,,,,,,,,,,,
+NC_000913,"3,683,472",SNP,G→A,"dctA, yhjK",,"C4-dicarboxylic acid, orotate and citrate transporter/cyclic-di-GMP phosphodiesterase",,,1566765,intergenic (‑25/+158),,,,,,,,,,,,,,,,1.00
+NC_000913,"755,308",DEL,Δ102 bp,sdhC,,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,1566766,coding (132‑233/390 nt),,,1.00,,,,,,,,,,,,,
+NC_000913,"1,708,854",SNP,C→G,rsxC,,SoxR iron-sulfur cluster reduction factor component; putative membrane-associated NADH oxidoreductase of electron transport complex,,,814237,Q646E (CAA→GAA),,,,,,,,,,,,,,,0.21,
+NC_000913,"3,683,472",SNP,G→T,"dctA, yhjK",,"C4-dicarboxylic acid, orotate and citrate transporter/cyclic-di-GMP phosphodiesterase",,,1566710,intergenic (‑25/+158),,,,,,1.00,,,,,,,,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,270,030",SNP,T→C,"yhaC, rnpB",,"pentapetide repeats-related protein/RNase P, M1 RNA component",,,1118684,intergenic (+428/+186),,,,,,,,,,,,,,,0.25,
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913,"756,623",SNP,G→A,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1566716,W239* (TGG→TGA),,,,,,,0.33,,,,,,,,,
+NC_000913,"1,767,182",DEL,Δ1 bp,ydiJ,,putative FAD-linked oxidoreductase,,,1566762,coding (1504/3057 nt),,,,1.00,,,,,,,,,,,,
+NC_000913,"1,708,930",SNP,C→A,rsxC,,SoxR iron-sulfur cluster reduction factor component; putative membrane-associated NADH oxidoreductase of electron transport complex,,,821887,P671Q (CCG→CAG),,,,,,,0.21,,,,,,,,,
