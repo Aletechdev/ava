@@ -1,0 +1,6 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,EEPcyoBndh A0 F0 I1 R1
+NC_000913,"3,458,108",SNP,C→A,gspD,,"general secretory pathway component, cryptic",,,824105,T578T (ACC→ACA),1.00
+NC_000913,"3,482,323",SNP,G→A,yheS,,ABC-F family protein predicted regulatory ATPase,,,824106,R346H (CGC→CAC),1.00
+NC_000913,"4,473,928",SNP,C→A,bdcA,,c-di-GMP-binding biofilm dispersal mediator protein,,,824107,A43S (GCC→TCC),1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,564205,,1.00
+NC_000913,"3,815,858",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,687367,,1.00
