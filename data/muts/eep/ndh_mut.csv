@@ -1,0 +1,32 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,ndh A0 F0 I1 R1,ndh A13 F28 I0 R1,ndh A13 F47 I0 R1,ndh A13 F47 I1 R1,ndh A14 F26 I0 R1,ndh A14 F46 I0 R1,ndh A14 F46 I1 R1,ndh A15 F26 I0 R1,ndh A15 F46 I0 R1,ndh A15 F46 I1 R1,ndh A16 F26 I0 R1,ndh A16 F47 I0 R1,ndh A16 F47 I1 R1
+NC_000913,"756,171",SNP,T→C,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1653569,C89R (TGT→CGT),,,,,0.89,0.91,1.00,,,,,,
+NC_000913,"4,406,129",SNP,T→C,"purA, nsrR",,adenylosuccinate synthetase/nitric oxide-sensitive repressor for NO regulon,,,1102531,intergenic (+144/‑61),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,548,550",SUB,24 bp→24 bp,malQ,,4-alpha-glucanotransferase (amylomaltase),,,1653636,coding (1498‑1521/2085 nt),,,,,,,,,0.21,,,,
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),1.00,,,,,,,,,,,,
+NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,481286,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,816,605",DEL,Δ103 bp,[yicC],,[yicC],,,1566858,,,0.56,1.00,1.00,,,,,,1.00,,,
+NC_000913,"3,815,895",DEL,Δ11 bp,rph,,ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,1653583,pseudogene (645‑655/669 nt),,,,,,0.35,,,,,,,
+NC_000913,"3,890,075",MOB,IS5 (–) +4 bp,tnaA,,"tryptophanase/L-cysteine desulfhydrase, PLP-dependent",,,673237,coding (1346‑1349/1416 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,815,809",DEL,Δ1 bp,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,1115222,intergenic (‑41/+25),,,,,0.23,0.25,,,,,,,
+NC_000913,"3,316,757",SNP,G→T,nusA,,transcription termination/antitermination L factor,,,1653561,A257E (GCG→GAG),,,,,,,,,,,,1.00,1.00
+NC_000913,"757,146",SNP,G→C,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1653593,A414P (GCG→CCG),,,,,,,,,0.20,1.00,,,
+NC_000913,"757,258",INS,+T,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1653595,coding (1352/1767 nt),,1.00,1.00,,,,,,,,,,
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,1103452,pseudogene (1‑2/442 nt),,1.00,1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00,
+NC_000913,"1,286,965",SNP,A→G,"narI, rttR",,"nitrate reductase 1, gamma (cytochrome b(NR)) subunit/rtT sRNA, processed from tyrT transcript",,,755358,intergenic (+439/+101),,,,,,0.25,,,,,,,
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103621,intergenic (+266/+376),,0.32,0.38,,0.25,0.29,,0.29,0.27,,0.31,0.32,
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,1.00,1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00,
+NC_000913,"3,815,815",SNP,T→G,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,1653564,intergenic (‑47/+19),,,,,,,,,,,,0.93,1.00
+NC_000913,"3,111,428",SNP,T→G,yghE,,"pseudogene, secretion pathway protein, L-type protein homology; putative general secretion pathway for protein export (GSP)",,,1653544,pseudogene (663/963 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,1102506,,,,,,,,,0.22,0.44,,0.50,,
+NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,564207,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"757,259",INS,+T,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1653617,coding (1353/1767 nt),,,,1.00,,,,,,,,,
+NC_000913,"2,019,460",SNP,G→A,fliK,,flagellar hook-length control protein,,,669363,V359I (GTC→ATC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"751,736",SNP,G→A,ybgQ,,putative outer membrane protein,,,1653620,P145L (CCC→CTC),,,,,,,,,0.24,,,,
+NC_000913,"756,548",SNP,C→A,sdhA,,"succinate dehydrogenase, flavoprotein subunit",,,1653621,N214K (AAC→AAA),,,,,,,,,0.32,,,,
+NC_000913,"757,888",DEL,Δ1 bp,sdhB,,"succinate dehydrogenase, FeS subunit",,,1653622,coding (200/717 nt),,,,,,,,0.60,0.40,,,,
+NC_000913,"759,249",SNP,C→A,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,1653545,R182S (CGC→AGC),,,,,,,,,,,0.91,1.00,1.00
+NC_000913,"2,470,427",SNP,C→A,gtrS,,"serotype-specific glucosyl transferase, CPS-53 (KpLE1) prophage",,,1111801,Q433K (CAA→AAA),,,,,0.23,,,0.21,,,,,
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,,,1.00,,,1.00,,,1.00,,,1.00
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,,,1.00,,,1.00,,,1.00,,,1.00
+NC_000913,"4,517,356",SNP,T→A,fecR,,anti-sigma transmembrane signal transducer for ferric citrate transport; periplasmic FecA-bound ferric citrate sensor and cytoplasmic FecI ECF sigma factor activator,,,1653589,Q121L (CAG→CTG),,,,,,,1.00,,,,,,

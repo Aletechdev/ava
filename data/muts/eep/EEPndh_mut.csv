@@ -1,6 +1,0 @@
-Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,EEPndh A0 F0 I1 R1
-NC_000913,"3,111,426",SNP,T→G,yghE,,"pseudogene, secretion pathway protein, L-type protein homology; putative general secretion pathway for protein export (GSP)",,,831869,pseudogene (663/963 nt),1.00
-NC_000913,"4,406,130",SNP,T→C,"purA, nsrR",,adenylosuccinate synthetase/nitric oxide-sensitive repressor for NO regulon,,,812597,intergenic (+144/‑61),1.00
-NC_000913,"2,019,460",SNP,G→A,fliK,,flagellar hook-length control protein,,,669363,V359I (GTC→ATC),1.00
-NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),1.00
-NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,564205,,1.00
